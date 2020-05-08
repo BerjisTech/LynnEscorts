@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "17659420767",
+    "firebase_url": "https://lynn-6a28b.firebaseio.com",
+    "project_id": "lynn-6a28b",
+    "storage_bucket": "lynn-6a28b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17659420767:android:b18c82a31cd116d8e67bea",
+        "android_client_info": {
+          "package_name": "tech.berjis.lynn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17659420767-stcv6bjth6sbhcbh0ob6aj3rchqpbdu4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.berjis.lynn",
+            "certificate_hash": "ec6c42a9cc63fcbe98da893fd5a5faf3391707db"
+          }
+        },
+        {
+          "client_id": "17659420767-vdckq9qpi835d4qqeadbgoqq5m6lpd6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.berjis.lynn",
+            "certificate_hash": "1aa105ecab722b7140a3fc414fb50c8516848bb9"
+          }
+        },
+        {
+          "client_id": "17659420767-h5em6h5oiehqgmn69nhb6oi0pgvoig86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC09sKLJPtgsft5Q3ePH1bBCp3uYVEVgbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17659420767-h5em6h5oiehqgmn69nhb6oi0pgvoig86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17659420767:android:828a3e216a9e9d4ee67bea",
+        "android_client_info": {
+          "package_name": "tech.berjis.lynnescorts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17659420767-qstpqii9it146rajla3cs6vu6o1fgac2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.berjis.lynnescorts",
+            "certificate_hash": "ec6c42a9cc63fcbe98da893fd5a5faf3391707db"
+          }
+        },
+        {
+          "client_id": "17659420767-h5em6h5oiehqgmn69nhb6oi0pgvoig86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC09sKLJPtgsft5Q3ePH1bBCp3uYVEVgbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17659420767-h5em6h5oiehqgmn69nhb6oi0pgvoig86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
