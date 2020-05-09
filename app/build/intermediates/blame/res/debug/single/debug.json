@@ -124,12 +124,20 @@
         "source": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pricing.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\src\\main\\res\\layout\\activity_pricing.xml"
+    },
+    {
         "merged": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_profile.xml.flat",
         "source": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\src\\main\\res\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_services.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\src\\main\\res\\layout\\activity_services.xml"
     },
     {
         "merged": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_faq.xml.flat",

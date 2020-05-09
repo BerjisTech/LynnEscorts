@@ -3,12 +3,23 @@ package tech.berjis.lynnescorts;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.view.View;
+import android.widget.ImageView;
 
 public class PricingActivity extends AppCompatActivity {
+    ImageView back;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_pricing);
+
+        back = findViewById(R.id.back);
+        back.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                PricingActivity.super.finish();
+            }
+        });
     }
 }

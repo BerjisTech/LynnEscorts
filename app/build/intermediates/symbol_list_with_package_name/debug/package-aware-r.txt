@@ -2824,8 +2824,10 @@ layout activity_faq
 layout activity_feed
 layout activity_main
 layout activity_notifications
+layout activity_pricing
 layout activity_profile
 layout activity_register
+layout activity_services
 layout activity_settings
 layout activity_terms
 layout activity_verify_phone
@@ -3207,6 +3209,7 @@ string mtrl_picker_toggle_to_calendar_input_mode
 string mtrl_picker_toggle_to_day_selection
 string mtrl_picker_toggle_to_text_input_mode
 string mtrl_picker_toggle_to_year_selection
+string my_prices
 string my_profile
 string nav_app_bar_navigate_up_description
 string nav_app_bar_open_drawer_description
@@ -3290,6 +3293,7 @@ string vodafone
 string vodafone_msg
 string wait
 string wait_for_automatic_registration
+string what_i_do
 string write_a_comment
 string yes
 string you_are_currently_on_staging_mode

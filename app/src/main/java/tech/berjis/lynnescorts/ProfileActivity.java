@@ -7,6 +7,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.google.firebase.auth.FirebaseAuth;
@@ -28,6 +29,7 @@ public class ProfileActivity extends AppCompatActivity {
     ImageView home, chats, profile, menu;
     CircleImageView dp;
     EmojiTextView full_name, username;
+    TextView services, pricing;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -45,6 +47,8 @@ public class ProfileActivity extends AppCompatActivity {
         profile = findViewById(R.id.profile);
         username = findViewById(R.id.username);
         full_name = findViewById(R.id.full_name);
+        services = findViewById(R.id.services);
+        pricing = findViewById(R.id.pricing);
 
         loaduserdata();
         staticOnclicks();
@@ -73,6 +77,18 @@ public class ProfileActivity extends AppCompatActivity {
         profile.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+            }
+        });
+        services.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(ProfileActivity.this, ServicesActivity.class));
+            }
+        });
+        pricing.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(ProfileActivity.this, PricingActivity.class));
             }
         });
     }
