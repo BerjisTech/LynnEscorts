@@ -2047,6 +2047,7 @@ drawable notify_panel_notification_icon_bg
 drawable orange_button_curved
 drawable otp
 drawable otp_button_curved
+drawable outer_border
 drawable padlock
 drawable profile
 drawable recyclerview_background
@@ -2346,14 +2347,8 @@ id fitToContents
 id fixed
 id flex_end
 id flex_start
-id followerCount
-id followerText
-id followingCount
-id followingText
 id forever
 id frame_container
-id friendsCount
-id friendsText
 id full_name
 id get_help_btn
 id get_help_txt
@@ -2501,10 +2496,13 @@ id payment_status_Tv
 id peekHeight
 id percent
 id phoneVerificationImage
+id photosCount
+id photosText
 id pin
 id plain
 id postText
 id preferenceDivider
+id pricing
 id primary_button
 id profile
 id progress_circular
@@ -2584,6 +2582,8 @@ id reference_code_layout
 id reference_code_tv
 id report_problems_btn
 id report_problems_txt
+id requestsCount
+id requestsText
 id rfc822
 id right
 id right_icon
@@ -2629,6 +2629,7 @@ id selected
 id send
 id sendPhone
 id send_text_bg
+id services
 id share
 id shortcut
 id showCustom
@@ -2743,6 +2744,8 @@ id verificationtextOne
 id verificationtextTwo
 id verify_ussd_payment_button
 id version
+id videosCount
+id videosText
 id view_offset_helper
 id visible
 id wide

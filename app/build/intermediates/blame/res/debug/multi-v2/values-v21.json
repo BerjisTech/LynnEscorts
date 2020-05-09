@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\bened\\AndroidStudioProjects\\LynnEscorts\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
                     "source": "C:\\Users\\bened\\.gradle\\caches\\transforms-2\\files-2.1\\94351ad97b756f10c81e27a8ea62d7e0\\jetified-firebase-inappmessaging-display-19.0.6\\res\\values-v21\\values-v21.xml",

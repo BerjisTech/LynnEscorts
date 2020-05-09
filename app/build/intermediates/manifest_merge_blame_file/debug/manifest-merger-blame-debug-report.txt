@@ -6,44 +6,44 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="19"
-8-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml
+8-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml
+9-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-11-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:6:5-79
-11-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:6:22-76
+11-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:6:5-79
+11-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:6:22-76
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:7:5-67
-12-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:7:22-64
+12-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:7:5-67
+12-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:7:22-64
 13    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
-13-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:8:5-75
-13-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:8:22-72
+13-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:8:5-75
+13-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:8:22-72
 14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-14-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:9:5-79
-14-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:9:22-76
+14-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:9:5-79
+14-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:9:22-76
 15    <uses-permission android:name="android.permission.CAMERA" />
-15-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:10:5-65
-15-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:10:22-62
+15-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:10:5-65
+15-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:10:22-62
 16    <uses-permission android:name="android.permission.FLASHLIGHT" />
-16-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:11:5-69
-16-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:11:22-66
+16-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:11:5-69
+16-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:11:22-66
 17    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-17-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:12:5-76
-17-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:12:22-73
+17-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:12:5-76
+17-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:12:22-73
 18    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-18-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:13:5-81
-18-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:13:22-78
+18-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:13:5-81
+18-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:13:22-78
 19    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-19-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:14:5-80
-19-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:14:22-77
+19-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:14:5-80
+19-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:14:22-77
 20    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-20-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:15:5-81
-20-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:15:22-78
+20-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:15:5-81
+20-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:15:22-78
 21
 22    <uses-feature android:name="android.hardware.camera.autofocus" />
-22-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:17:5-70
-22-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:17:19-67
+22-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:17:5-70
+22-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:17:19-67
 23
 24    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
 24-->[com.google.android.gms:play-services-measurement-api:17.4.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\7a31a249c23b671f80a71083143f7823\jetified-play-services-measurement-api-17.4.1\AndroidManifest.xml:24:5-68
@@ -56,170 +56,170 @@
 26-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\93344a54810d6249d792bcad51b8c857\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:26:22-107
 27
 28    <application
-28-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:19:5-116:19
+28-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:19:5-116:19
 29        android:name="tech.berjis.lynnescorts.EmojiApplication"
-29-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:20:9-41
+29-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:20:9-41
 30        android:allowBackup="true"
-30-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:21:9-35
+30-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:21:9-35
 31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 31-->[androidx.core:core:1.1.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\bcfc0b80df78591183083cc148e1cf2c\core-1.1.0\AndroidManifest.xml:24:18-86
 32        android:debuggable="true"
 33        android:icon="@drawable/logo"
-33-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:22:9-38
+33-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:22:9-38
 34        android:label="@string/app_name"
-34-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:23:9-41
+34-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:23:9-41
 35        android:roundIcon="@drawable/logo"
-35-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:24:9-43
+35-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:24:9-43
 36        android:supportsRtl="true"
-36-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:25:9-35
+36-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:25:9-35
 37        android:testOnly="true"
 38        android:theme="@style/AppCustomTheme.NoActionBar" >
-38-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:26:9-58
+38-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:26:9-58
 39        <activity
-39-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:27:9-31:56
+39-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:27:9-31:56
 40            android:name="tech.berjis.lynnescorts.NotificationsActivity"
-40-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:28:13-50
+40-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:28:13-50
 41            android:screenOrientation="portrait"
-41-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:29:13-49
+41-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:29:13-49
 42            android:windowSoftInputMode="stateHidden" />
-42-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:30:13-54
+42-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:30:13-54
 43        <activity
-43-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:32:9-36:56
+43-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:32:9-36:56
 44            android:name="tech.berjis.lynnescorts.DMsActivity"
-44-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:33:13-40
+44-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:33:13-40
 45            android:screenOrientation="portrait"
-45-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:34:13-49
+45-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:34:13-49
 46            android:windowSoftInputMode="stateHidden" />
-46-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:35:13-54
+46-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:35:13-54
 47        <activity
-47-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:37:9-41:56
+47-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:37:9-41:56
 48            android:name="tech.berjis.lynnescorts.DMActivity"
-48-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:38:13-39
+48-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:38:13-39
 49            android:screenOrientation="portrait"
-49-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:39:13-49
+49-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:39:13-49
 50            android:windowSoftInputMode="stateHidden" />
-50-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:40:13-54
+50-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:40:13-54
 51        <activity
-51-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:42:9-46:56
+51-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:42:9-46:56
 52            android:name="tech.berjis.lynnescorts.CreatePost"
-52-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:43:13-39
+52-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:43:13-39
 53            android:screenOrientation="portrait"
-53-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:44:13-49
+53-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:44:13-49
 54            android:windowSoftInputMode="stateHidden" />
-54-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:45:13-54
+54-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:45:13-54
 55        <activity
-55-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:47:9-51:56
+55-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:47:9-51:56
 56            android:name="tech.berjis.lynnescorts.AppInfo"
-56-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:48:13-36
+56-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:48:13-36
 57            android:screenOrientation="portrait"
-57-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:49:13-49
+57-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:49:13-49
 58            android:windowSoftInputMode="stateHidden" />
-58-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:50:13-54
+58-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:50:13-54
 59        <activity
-59-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:52:9-56:56
+59-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:52:9-56:56
 60            android:name="tech.berjis.lynnescorts.PrivacyActivity"
-60-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:53:13-44
+60-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:53:13-44
 61            android:screenOrientation="portrait"
-61-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:54:13-49
+61-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:54:13-49
 62            android:windowSoftInputMode="stateHidden" />
-62-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:55:13-54
+62-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:55:13-54
 63        <activity
-63-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:57:9-61:56
+63-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:57:9-61:56
 64            android:name="tech.berjis.lynnescorts.TermsActivity"
-64-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:58:13-42
+64-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:58:13-42
 65            android:screenOrientation="portrait"
-65-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:59:13-49
+65-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:59:13-49
 66            android:windowSoftInputMode="stateHidden" />
-66-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:60:13-54
+66-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:60:13-54
 67        <activity
-67-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:62:9-66:56
+67-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:62:9-66:56
 68            android:name="tech.berjis.lynnescorts.CommentsActivity"
-68-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:63:13-45
+68-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:63:13-45
 69            android:screenOrientation="portrait"
-69-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:64:13-49
+69-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:64:13-49
 70            android:windowSoftInputMode="stateHidden" />
-70-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:65:13-54
+70-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:65:13-54
 71        <activity
-71-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:67:9-71:56
+71-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:67:9-71:56
 72            android:name="tech.berjis.lynnescorts.ChangePhoneNumber"
-72-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:68:13-46
+72-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:68:13-46
 73            android:screenOrientation="portrait"
-73-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:69:13-49
+73-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:69:13-49
 74            android:windowSoftInputMode="stateHidden" />
-74-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:70:13-54
+74-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:70:13-54
 75        <activity
-75-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:72:9-76:56
+75-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:72:9-76:56
 76            android:name="tech.berjis.lynnescorts.EditProfileActivity"
-76-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:73:13-48
+76-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:73:13-48
 77            android:screenOrientation="portrait"
-77-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:74:13-49
+77-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:74:13-49
 78            android:windowSoftInputMode="stateHidden" />
-78-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:75:13-54
+78-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:75:13-54
 79        <activity
-79-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:77:9-81:56
+79-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:77:9-81:56
 80            android:name="tech.berjis.lynnescorts.SettingsActivity"
-80-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:78:13-45
+80-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:78:13-45
 81            android:screenOrientation="portrait"
-81-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:79:13-49
+81-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:79:13-49
 82            android:windowSoftInputMode="stateHidden" />
-82-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:80:13-54
+82-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:80:13-54
 83        <activity
-83-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:82:9-86:56
+83-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:82:9-86:56
 84            android:name="tech.berjis.lynnescorts.ProfileActivity"
-84-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:83:13-44
+84-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:83:13-44
 85            android:screenOrientation="portrait"
-85-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:84:13-49
+85-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:84:13-49
 86            android:windowSoftInputMode="stateHidden" />
-86-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:85:13-54
+86-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:85:13-54
 87        <activity
-87-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:87:9-91:56
+87-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:87:9-91:56
 88            android:name="tech.berjis.lynnescorts.FeedActivity"
-88-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:88:13-41
+88-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:88:13-41
 89            android:screenOrientation="portrait"
-89-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:89:13-49
+89-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:89:13-49
 90            android:windowSoftInputMode="stateHidden" />
-90-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:90:13-54
+90-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:90:13-54
 91        <activity
-91-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:92:9-96:56
+91-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:92:9-96:56
 92            android:name="tech.berjis.lynnescorts.VerifyPhoneActivity"
-92-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:93:13-48
+92-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:93:13-48
 93            android:screenOrientation="portrait"
-93-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:94:13-49
+93-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:94:13-49
 94            android:windowSoftInputMode="stateHidden" />
-94-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:95:13-54
+94-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:95:13-54
 95        <activity
-95-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:97:9-101:56
+95-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:97:9-101:56
 96            android:name="tech.berjis.lynnescorts.RegisterActivity"
-96-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:98:13-45
+96-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:98:13-45
 97            android:screenOrientation="portrait"
-97-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:99:13-49
+97-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:99:13-49
 98            android:windowSoftInputMode="stateHidden" />
-98-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:100:13-54
+98-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:100:13-54
 99        <activity
-99-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:102:9-112:20
+99-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:102:9-112:20
 100            android:name="tech.berjis.lynnescorts.MainActivity"
-100-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:103:13-41
+100-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:103:13-41
 101            android:screenOrientation="portrait"
-101-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:104:13-49
+101-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:104:13-49
 102            android:windowSoftInputMode="stateHidden" >
-102-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:105:13-54
+102-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:105:13-54
 103            <intent-filter>
-103-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:107:13-111:29
+103-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:107:13-111:29
 104                <action android:name="android.intent.action.MAIN" />
-104-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:108:17-69
-104-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:108:25-66
+104-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:108:17-69
+104-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:108:25-66
 105
 106                <category android:name="android.intent.category.LAUNCHER" />
-106-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:110:17-77
-106-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:110:27-74
+106-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:110:17-77
+106-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:110:27-74
 107            </intent-filter>
 108        </activity>
 109        <activity
-109-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:113:9-115:59
+109-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:113:9-115:59
 110            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
-110-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:114:13-76
+110-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:114:13-76
 111            android:theme="@style/Base.Theme.AppCompat" />
-111-->C:\Users\bened\AndroidStudioProjects\LynnEscorts\app\src\main\AndroidManifest.xml:115:13-56
+111-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:115:13-56
 112
 113        <service
 113-->[com.google.firebase:firebase-inappmessaging-display:19.0.6] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\94351ad97b756f10c81e27a8ea62d7e0\jetified-firebase-inappmessaging-display-19.0.6\AndroidManifest.xml:15:9-21:19

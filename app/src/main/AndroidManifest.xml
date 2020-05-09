@@ -24,6 +24,8 @@
         android:roundIcon="@drawable/logo"
         android:supportsRtl="true"
         android:theme="@style/AppCustomTheme.NoActionBar">
+        <activity android:name=".PricingActivity"></activity>
+        <activity android:name=".ServicesActivity" />
         <activity
             android:name=".NotificationsActivity"
             android:screenOrientation="portrait"
