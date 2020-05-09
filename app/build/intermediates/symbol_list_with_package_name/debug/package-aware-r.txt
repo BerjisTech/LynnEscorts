@@ -2052,12 +2052,14 @@ drawable padlock
 drawable profile
 drawable recyclerview_background
 drawable rounded_layout
+drawable search
 drawable send
 drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 drawable transparent
 drawable verve
+drawable video
 drawable visa_logo_new
 id AFRIKAANS
 id ALT
@@ -2773,6 +2775,7 @@ id verificationtextOne
 id verificationtextTwo
 id verify_ussd_payment_button
 id version
+id video
 id videoCalls
 id videoCallsAmount
 id videoCallsAmountText

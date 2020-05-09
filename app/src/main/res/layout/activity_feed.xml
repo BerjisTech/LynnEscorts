@@ -6,26 +6,6 @@
     android:layout_height="match_parent"
     tools:context=".FeedActivity">
 
-    <ImageView
-        android:id="@+id/camera"
-        android:layout_width="30dp"
-        android:layout_height="30dp"
-        android:layout_marginTop="10dp"
-        android:layout_marginEnd="20dp"
-        android:src="@drawable/camera"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
-    <ImageView
-        android:id="@+id/likes"
-        android:layout_width="30dp"
-        android:layout_height="30dp"
-        android:layout_marginTop="10dp"
-        android:layout_marginEnd="20dp"
-        android:src="@drawable/like"
-        app:layout_constraintEnd_toStartOf="@id/camera"
-        app:layout_constraintTop_toTopOf="parent" />
-
     <TextView
         android:id="@+id/pageTitle"
         android:layout_width="0dp"
@@ -40,11 +20,52 @@
         app:layout_constraintTop_toTopOf="@id/likes" />
 
     <ImageView
+        android:id="@+id/video"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/video"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/search"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/search"
+        app:layout_constraintStart_toEndOf="@id/video"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/likes"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="20dp"
+        android:src="@drawable/like"
+        app:layout_constraintEnd_toStartOf="@id/camera"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/camera"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="20dp"
+        android:src="@drawable/camera"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <ImageView
         android:id="@+id/home"
         android:layout_width="30dp"
         android:layout_height="30dp"
-        android:src="@drawable/home"
         android:layout_marginBottom="20dp"
+        android:src="@drawable/home"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@id/chats"
         app:layout_constraintStart_toStartOf="parent" />
@@ -53,8 +74,8 @@
         android:id="@+id/chats"
         android:layout_width="30dp"
         android:layout_height="30dp"
-        android:src="@drawable/chat"
         android:layout_marginBottom="20dp"
+        android:src="@drawable/chat"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
@@ -63,8 +84,8 @@
         android:id="@+id/profile"
         android:layout_width="30dp"
         android:layout_height="30dp"
-        android:src="@drawable/profile"
         android:layout_marginBottom="20dp"
+        android:src="@drawable/profile"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@id/chats" />
