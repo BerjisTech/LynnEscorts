@@ -2754,6 +2754,7 @@ id unchecked
 id uniform
 id unlabeled
 id up
+id updatePricing
 id updateProfile
 id url
 id useLogo
