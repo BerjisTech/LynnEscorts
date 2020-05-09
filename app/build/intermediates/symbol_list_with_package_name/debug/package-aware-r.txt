@@ -3150,6 +3150,7 @@ string defaultCardExpiry
 string default_web_client_id
 string define_emoji
 string do_you_offer_incalls
+string do_you_offer_video_calls
 string do_you_sell_photos_and_or_videos
 string edit_profile
 string email

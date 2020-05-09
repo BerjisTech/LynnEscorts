@@ -44,4 +44,5 @@
     <string name="incall_prices">Incall prices \n(Price per shot or price per hour)</string>
     <string name="do_you_offer_incalls">Do you offer incalls and/or outcalls?</string>
     <string name="do_you_sell_photos_and_or_videos">Do you sell photos and/or videos?</string>
+    <string name="do_you_offer_video_calls">Do you offer video calls?</string>
 </resources>

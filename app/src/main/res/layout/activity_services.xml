@@ -90,7 +90,7 @@
                     android:layout_height="wrap_content"
                     android:paddingStart="0dp"
                     android:paddingEnd="10dp"
-                    android:text="No, I don't fuck. I only sell photos and videos" />
+                    android:text="No, I don't offer any incalls or outcalls." />
 
             </RadioGroup>
 
@@ -161,7 +161,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:paddingBottom="15dp"
-                    android:text="@string/do_you_sell_photos_and_or_videos" />
+                    android:text="@string/do_you_offer_video_calls" />
 
                 <RadioButton
                     android:id="@+id/yesVideoCalls"
