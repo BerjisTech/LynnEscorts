@@ -29,4 +29,344 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <ScrollView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView11">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="40dp">
+
+            <TextView
+                android:id="@+id/photosTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginEnd="20dp"
+                android:text="@string/photos_prices_price_per_photo"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/photosPerText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="30dp"
+                android:text="per"
+                android:textStyle="bold"
+                app:layout_constraintStart_toEndOf="@+id/photosPrice"
+                app:layout_constraintTop_toBottomOf="@id/photosTitle" />
+
+            <EditText
+                android:id="@+id/photosPrice"
+                android:layout_width="70dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="10dp"
+                android:background="@drawable/outer_border"
+                android:hint="0"
+                android:inputType="number"
+                android:padding="10dp"
+                app:layout_constraintBottom_toBottomOf="@id/photosPerText"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@id/photosPerText" />
+
+            <EditText
+                android:id="@+id/photosAmount"
+                android:layout_width="50dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:background="@drawable/outer_border"
+                android:inputType="number"
+                android:padding="10dp"
+                android:text="0"
+                app:layout_constraintBottom_toBottomOf="@id/photosPerText"
+                app:layout_constraintStart_toEndOf="@+id/photosPerText"
+                app:layout_constraintTop_toTopOf="@id/photosPerText" />
+
+            <TextView
+                android:id="@+id/photosAmountText"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="20dp"
+                android:padding="10dp"
+                android:text="photos"
+                app:layout_constraintBottom_toBottomOf="@id/photosPerText"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/photosAmount"
+                app:layout_constraintTop_toTopOf="@id/photosPerText" />
+
+            <TextView
+                android:id="@+id/videosTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginEnd="20dp"
+                android:text="@string/videos_prices_price_per_video"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/photosAmountText" />
+
+            <TextView
+                android:id="@+id/videosPerText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="30dp"
+                android:text="per"
+                android:textStyle="bold"
+                app:layout_constraintStart_toEndOf="@+id/videosPrice"
+                app:layout_constraintTop_toBottomOf="@id/videosTitle" />
+
+            <EditText
+                android:id="@+id/videosPrice"
+                android:layout_width="70dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="10dp"
+                android:background="@drawable/outer_border"
+                android:hint="0"
+                android:inputType="number"
+                android:padding="10dp"
+                app:layout_constraintBottom_toBottomOf="@id/videosPerText"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@id/videosPerText" />
+
+            <EditText
+                android:id="@+id/videosAmount"
+                android:layout_width="50dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:background="@drawable/outer_border"
+                android:inputType="number"
+                android:padding="10dp"
+                android:text="0"
+                app:layout_constraintBottom_toBottomOf="@id/videosPerText"
+                app:layout_constraintStart_toEndOf="@+id/videosPerText"
+                app:layout_constraintTop_toTopOf="@id/videosPerText" />
+
+            <TextView
+                android:id="@+id/videosAmountText"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="20dp"
+                android:padding="10dp"
+                android:text="videos"
+                app:layout_constraintBottom_toBottomOf="@id/videosPerText"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/videosAmount"
+                app:layout_constraintTop_toTopOf="@id/videosPerText" />
+
+            <TextView
+                android:id="@+id/videoCallsTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginEnd="20dp"
+                android:text="@string/video_calls_prices_price_per_hour"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/videosAmountText" />
+
+            <TextView
+                android:id="@+id/videoCallsPerText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="30dp"
+                android:text="per"
+                android:textStyle="bold"
+                app:layout_constraintStart_toEndOf="@+id/videoCallsPrice"
+                app:layout_constraintTop_toBottomOf="@id/videoCallsTitle" />
+
+            <EditText
+                android:id="@+id/videoCallsPrice"
+                android:layout_width="70dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="10dp"
+                android:background="@drawable/outer_border"
+                android:hint="0"
+                android:inputType="number"
+                android:padding="10dp"
+                app:layout_constraintBottom_toBottomOf="@id/videoCallsPerText"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@id/videoCallsPerText" />
+
+            <EditText
+                android:id="@+id/videoCallsAmount"
+                android:layout_width="50dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:background="@drawable/outer_border"
+                android:inputType="number"
+                android:padding="10dp"
+                android:text="0"
+                app:layout_constraintBottom_toBottomOf="@id/videoCallsPerText"
+                app:layout_constraintStart_toEndOf="@+id/videoCallsPerText"
+                app:layout_constraintTop_toTopOf="@id/videoCallsPerText" />
+
+            <TextView
+                android:id="@+id/videoCallsAmountText"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="20dp"
+                android:padding="10dp"
+                android:text="hour"
+                app:layout_constraintBottom_toBottomOf="@id/videoCallsPerText"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/videoCallsAmount"
+                app:layout_constraintTop_toTopOf="@id/videoCallsPerText" />
+
+            <TextView
+                android:id="@+id/outCallTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginEnd="20dp"
+                android:text="@string/outcall_prices"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/videoCallsAmountText" />
+
+            <TextView
+                android:id="@+id/outCallPerText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="30dp"
+                android:text="per"
+                android:textStyle="bold"
+                app:layout_constraintStart_toEndOf="@+id/outCallPrice"
+                app:layout_constraintTop_toBottomOf="@id/outCallTitle" />
+
+            <EditText
+                android:id="@+id/outCallPrice"
+                android:layout_width="70dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="10dp"
+                android:background="@drawable/outer_border"
+                android:hint="0"
+                android:inputType="number"
+                android:padding="10dp"
+                app:layout_constraintBottom_toBottomOf="@id/outCallPerText"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@id/outCallPerText" />
+
+            <RadioGroup
+                android:id="@+id/outCallRadio"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                app:layout_constraintBottom_toBottomOf="@+id/outCallPerText"
+                app:layout_constraintStart_toEndOf="@+id/outCallPerText"
+                app:layout_constraintTop_toTopOf="@+id/outCallPerText">
+
+                <RadioButton
+                    android:id="@+id/outCallRadioShot"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:checked="true"
+                    android:paddingStart="0dp"
+                    android:paddingEnd="10dp"
+                    android:text="Shot" />
+
+                <RadioButton
+                    android:id="@+id/outCallRadioHour"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingStart="0dp"
+                    android:paddingEnd="10dp"
+                    android:text="Hour" />
+
+            </RadioGroup>
+
+            <TextView
+                android:id="@+id/inCallTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginEnd="20dp"
+                android:text="@string/incall_prices"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/outCallRadio" />
+
+            <TextView
+                android:id="@+id/inCallPerText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="30dp"
+                android:text="per"
+                android:textStyle="bold"
+                app:layout_constraintStart_toEndOf="@+id/inCallPrice"
+                app:layout_constraintTop_toBottomOf="@id/inCallTitle" />
+
+            <EditText
+                android:id="@+id/inCallPrice"
+                android:layout_width="70dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="10dp"
+                android:background="@drawable/outer_border"
+                android:hint="0"
+                android:inputType="number"
+                android:padding="10dp"
+                app:layout_constraintBottom_toBottomOf="@id/inCallPerText"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@id/inCallPerText" />
+
+            <RadioGroup
+                android:id="@+id/inCallRadio"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                app:layout_constraintBottom_toBottomOf="@+id/inCallPerText"
+                app:layout_constraintStart_toEndOf="@+id/inCallPerText"
+                app:layout_constraintTop_toTopOf="@+id/inCallPerText">
+
+                <RadioButton
+                    android:id="@+id/inCallRadioShot"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:checked="true"
+                    android:paddingStart="0dp"
+                    android:paddingEnd="10dp"
+                    android:text="Shot" />
+
+                <RadioButton
+                    android:id="@+id/inCallRadioHour"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingStart="0dp"
+                    android:paddingEnd="10dp"
+                    android:text="Hour" />
+
+            </RadioGroup>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+
 </androidx.constraintlayout.widget.ConstraintLayout>

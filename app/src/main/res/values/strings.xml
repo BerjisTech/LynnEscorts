@@ -34,4 +34,12 @@
     <string name="i_want_to_be_an_escort">I want to be an escort</string>
     <string name="my_prices">My Prices</string>
     <string name="what_i_do">What I Do</string>
+    <string name="save">Save</string>
+    <string name="write_something">Write something</string>
+    <string name="a_short_description_of_yourself">A short description of yourself</string>
+    <string name="photos_prices_price_per_photo">Photos prices (price per photo)</string>
+    <string name="videos_prices_price_per_video">Videos prices (price per video)</string>
+    <string name="video_calls_prices_price_per_hour">Video calls prices (price per hour)</string>
+    <string name="outcall_prices">Outcall prices \n(Price per shot or price per hour)</string>
+    <string name="incall_prices">Incall prices \n(Price per shot or price per hour)</string>
 </resources>

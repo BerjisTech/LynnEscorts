@@ -141,7 +141,6 @@
         android:paddingBottom="5dp"
         android:text="Services"
         app:layout_constraintEnd_toStartOf="@id/chats"
-        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/photosText" />
 
     <TextView
@@ -155,7 +154,6 @@
         android:paddingEnd="20dp"
         android:paddingBottom="5dp"
         android:text="Pricing"
-        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/chats"
         app:layout_constraintTop_toBottomOf="@id/photosText" />
 
