@@ -2295,6 +2295,7 @@ id date_picker_actions
 id decor_content_parent
 id decorating_line
 id default_activity_button
+id delete
 id demote_common_words
 id demote_rfc822_hostnames
 id design_bottom_sheet
@@ -2373,6 +2374,7 @@ id icon_only
 id icon_uri
 id ifRoom
 id image
+id imagePager
 id imageView
 id imageView1
 id imageView2
@@ -2466,6 +2468,7 @@ id multiply
 id nav_controller_view_tag
 id navigation_header_container
 id never
+id newImage
 id newPhone
 id newPhoneHint
 id noCall
@@ -2716,7 +2719,6 @@ id textView
 id textView1
 id textView10
 id textView11
-id textView12
 id textView2
 id textView3
 id textView4
@@ -2946,6 +2948,7 @@ layout mtrl_picker_header_title_text
 layout mtrl_picker_header_toggle
 layout mtrl_picker_text_input_date
 layout mtrl_picker_text_input_date_range
+layout new_post_image
 layout notification_action
 layout notification_action_tombstone
 layout notification_media_action

@@ -57,42 +57,43 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
 
-            <com.vanniktech.emoji.EmojiEditText
-                android:id="@+id/postText"
+            <androidx.viewpager2.widget.ViewPager2
+                android:id="@+id/imagePager"
                 android:layout_width="0dp"
-                android:layout_height="100dp"
-                android:layout_marginStart="20dp"
-                android:layout_marginTop="10dp"
-                android:layout_marginEnd="20dp"
-                android:gravity="start"
-                android:hint="@string/start_writing"
+                android:layout_height="350dp"
+                android:background="@drawable/add_image_button"
+                android:orientation="horizontal"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent" />
 
-            <androidx.recyclerview.widget.RecyclerView
+            <com.vanniktech.emoji.EmojiEditText
+                android:id="@+id/postText"
                 android:layout_width="0dp"
-                android:layout_height="100dp"
-                android:layout_marginTop="10dp"
-                android:layout_marginEnd="10dp"
-                android:background="@drawable/add_image_button"
-                android:orientation="horizontal"
-                app:layout_constraintEnd_toStartOf="@+id/textView12"
-                app:layout_constraintStart_toStartOf="@id/postText"
-                app:layout_constraintTop_toBottomOf="@id/postText" />
+                android:layout_height="150dp"
+                android:paddingStart="10dp"
+                android:paddingEnd="10dp"
+                android:paddingTop="20dp"
+                android:gravity="start"
+                android:hint="@string/start_writing"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/imagePager" />
 
             <TextView
-                android:id="@+id/textView12"
-                android:layout_width="100dp"
-                android:layout_height="100dp"
-                android:layout_marginTop="10dp"
-                android:background="@drawable/add_image_button"
-                android:gravity="center"
+                android:id="@+id/newImage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingStart="10dp"
+                android:paddingEnd="10dp"
+                android:layout_marginEnd="20dp"
+                android:background="@drawable/button"
                 android:text="+"
-                android:textColor="#666666"
-                android:textSize="60sp"
-                app:layout_constraintEnd_toEndOf="@+id/postText"
-                app:layout_constraintTop_toBottomOf="@id/postText" />
+                android:textColor="@color/colorWhite"
+                android:textSize="40sp"
+                app:layout_constraintBottom_toTopOf="@+id/postText"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/imagePager" />
 
         </androidx.constraintlayout.widget.ConstraintLayout>
 
