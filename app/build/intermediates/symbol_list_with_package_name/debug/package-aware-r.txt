@@ -2220,6 +2220,8 @@ id beneficiary
 id beneficiaryName
 id blocking
 id body_scroll
+id bothCalls
+id bothMedia
 id bottom
 id browser_actions_header_text
 id browser_actions_menu_item_icon
@@ -2379,6 +2381,13 @@ id image_root
 id image_view
 id img_clear_query
 id img_dismiss
+id inCallPerText
+id inCallPrice
+id inCallRadio
+id inCallRadioHour
+id inCallRadioShot
+id inCallTitle
+id inCalls
 id index_entity_types
 id info
 id instant_message
@@ -2457,7 +2466,10 @@ id navigation_header_container
 id never
 id newPhone
 id newPhoneHint
+id noCall
+id noMedia
 id noScroll
+id noVideoCalls
 id none
 id normal
 id notification_background
@@ -2483,6 +2495,7 @@ id outCallRadio
 id outCallRadioHour
 id outCallRadioShot
 id outCallTitle
+id outCalls
 id outline
 id oval
 id packed
@@ -2502,6 +2515,7 @@ id payment_status_Tv
 id peekHeight
 id percent
 id phoneVerificationImage
+id photos
 id photosAmount
 id photosAmountText
 id photosCount
@@ -2509,6 +2523,7 @@ id photosPerText
 id photosPrice
 id photosText
 id photosTitle
+id photosVideos
 id pin
 id plain
 id postText
@@ -2757,11 +2772,13 @@ id verificationtextOne
 id verificationtextTwo
 id verify_ussd_payment_button
 id version
+id videoCalls
 id videoCallsAmount
 id videoCallsAmountText
 id videoCallsPerText
 id videoCallsPrice
 id videoCallsTitle
+id videos
 id videosAmount
 id videosAmountText
 id videosCount
@@ -2776,6 +2793,7 @@ id withText
 id wrap
 id wrap_content
 id wrap_reverse
+id yesVideoCalls
 integer abc_config_activityDefaultDur
 integer abc_config_activityShortDur
 integer app_bar_elevation_anim_duration
@@ -3131,6 +3149,8 @@ string date_of_birth
 string defaultCardExpiry
 string default_web_client_id
 string define_emoji
+string do_you_offer_incalls
+string do_you_sell_photos_and_or_videos
 string edit_profile
 string email
 string email_address
@@ -3179,6 +3199,7 @@ string i_have_made_the_transfer
 string i_m_looking_for_an_escort
 string i_want_to_be_an_escort
 string icon_content_description
+string incall_prices
 string invalidCharge
 string invalidChargeCode
 string isInternetBanking
