@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:2:1-120:12
-INJECTED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:2:1-120:12
-INJECTED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:2:1-120:12
-INJECTED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:2:1-120:12
+ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:2:1-121:12
+INJECTED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:2:1-121:12
+INJECTED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:2:1-121:12
+INJECTED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:2:1-121:12
 MERGED from [com.theartofdev.edmodo:android-image-cropper:2.8.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c10a25150d21e57e35afe38f90f6ccd9\jetified-android-image-cropper-2.8.0\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\df7dd1f1723aca614bb5bb7724d5e01d\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-inappmessaging-display:19.0.6] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\94351ad97b756f10c81e27a8ea62d7e0\jetified-firebase-inappmessaging-display-19.0.6\AndroidManifest.xml:2:1-24:12
@@ -107,22 +107,22 @@ MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] C:\Users\ben
 MERGED from [io.michaelrocks:libphonenumber-android:8.10.14] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\b94916c3cc1060bb9edc983fb509ebe0\jetified-libphonenumber-android-8.10.14\AndroidManifest.xml:2:1-11:12
 MERGED from [com.scottyab:aescrypt:0.0.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\9cc556fc7203578fea1203d26a8398da\jetified-aescrypt-0.0.1\AndroidManifest.xml:2:1-12:12
 MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\43a31e3743836b3e27f4e455c0ca2029\jetified-rxandroid-2.0.2\AndroidManifest.xml:15:1-21:12
-INJECTED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:2:1-120:12
-INJECTED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:2:1-120:12
-INJECTED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:2:1-120:12
+INJECTED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:2:1-121:12
+INJECTED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:2:1-121:12
+INJECTED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:2:1-121:12
 	package
 		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:4:5-38
 		INJECTED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:2:1-120:12
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:2:1-121:12
 		INJECTED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:2:1-120:12
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:2:1-121:12
 		INJECTED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:2:11-69
@@ -223,7 +223,7 @@ ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\Android
 	android:name
 		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:17:19-67
 application
-ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:19:5-118:19
+ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:19:5-119:19
 MERGED from [com.google.firebase:firebase-inappmessaging-display:19.0.6] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\94351ad97b756f10c81e27a8ea62d7e0\jetified-firebase-inappmessaging-display-19.0.6\AndroidManifest.xml:14:5-22:19
 MERGED from [com.google.firebase:firebase-inappmessaging-display:19.0.6] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\94351ad97b756f10c81e27a8ea62d7e0\jetified-firebase-inappmessaging-display-19.0.6\AndroidManifest.xml:14:5-22:19
 MERGED from [com.hbb20:ccp:2.3.8] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\0047d9b53a95b195f3a927f0e07e627c\jetified-ccp-2.3.8\AndroidManifest.xml:11:5-14:19
@@ -334,190 +334,194 @@ MERGED from [com.scottyab:aescrypt:0.0.1] C:\Users\bened\.gradle\caches\transfor
 		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:26:9-58
 	android:name
 		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:20:9-41
+activity#tech.berjis.lynnescorts.FullScreenGallery
+ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:27:9-64
+	android:name
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:27:19-52
 activity#tech.berjis.lynnescorts.PricingActivity
-ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:27:9-62
+ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:28:9-53
 	android:name
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:27:19-50
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:28:19-50
 activity#tech.berjis.lynnescorts.ServicesActivity
-ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:28:9-54
+ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:29:9-54
 	android:name
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:28:19-51
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:29:19-51
 activity#tech.berjis.lynnescorts.NotificationsActivity
-ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:29:9-33:56
+ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:30:9-34:56
 	android:screenOrientation
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:31:13-49
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:32:13-49
 	android:windowSoftInputMode
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:32:13-54
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:33:13-54
 	tools:ignore
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:33:13-53
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:34:13-53
 	android:name
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:30:13-50
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:31:13-50
 activity#tech.berjis.lynnescorts.DMsActivity
-ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:34:9-38:56
+ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:35:9-39:56
 	android:screenOrientation
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:36:13-49
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:37:13-49
 	android:windowSoftInputMode
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:37:13-54
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:38:13-54
 	tools:ignore
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:38:13-53
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:39:13-53
 	android:name
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:35:13-40
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:36:13-40
 activity#tech.berjis.lynnescorts.DMActivity
-ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:39:9-43:56
+ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:40:9-44:56
 	android:screenOrientation
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:41:13-49
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:42:13-49
 	android:windowSoftInputMode
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:42:13-54
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:43:13-54
 	tools:ignore
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:43:13-53
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:44:13-53
 	android:name
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:40:13-39
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:41:13-39
 activity#tech.berjis.lynnescorts.CreatePost
-ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:44:9-48:56
+ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:45:9-49:56
 	android:screenOrientation
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:46:13-49
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:47:13-49
 	android:windowSoftInputMode
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:47:13-54
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:48:13-54
 	tools:ignore
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:48:13-53
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:49:13-53
 	android:name
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:45:13-39
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:46:13-39
 activity#tech.berjis.lynnescorts.AppInfo
-ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:49:9-53:56
+ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:50:9-54:56
 	android:screenOrientation
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:51:13-49
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:52:13-49
 	android:windowSoftInputMode
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:52:13-54
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:53:13-54
 	tools:ignore
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:53:13-53
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:54:13-53
 	android:name
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:50:13-36
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:51:13-36
 activity#tech.berjis.lynnescorts.PrivacyActivity
-ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:54:9-58:56
+ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:55:9-59:56
 	android:screenOrientation
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:56:13-49
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:57:13-49
 	android:windowSoftInputMode
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:57:13-54
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:58:13-54
 	tools:ignore
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:58:13-53
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:59:13-53
 	android:name
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:55:13-44
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:56:13-44
 activity#tech.berjis.lynnescorts.TermsActivity
-ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:59:9-63:56
+ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:60:9-64:56
 	android:screenOrientation
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:61:13-49
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:62:13-49
 	android:windowSoftInputMode
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:62:13-54
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:63:13-54
 	tools:ignore
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:63:13-53
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:64:13-53
 	android:name
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:60:13-42
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:61:13-42
 activity#tech.berjis.lynnescorts.CommentsActivity
-ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:64:9-68:56
+ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:65:9-69:56
 	android:screenOrientation
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:66:13-49
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:67:13-49
 	android:windowSoftInputMode
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:67:13-54
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:68:13-54
 	tools:ignore
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:68:13-53
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:69:13-53
 	android:name
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:65:13-45
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:66:13-45
 activity#tech.berjis.lynnescorts.ChangePhoneNumber
-ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:69:9-73:56
+ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:70:9-74:56
 	android:screenOrientation
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:71:13-49
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:72:13-49
 	android:windowSoftInputMode
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:72:13-54
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:73:13-54
 	tools:ignore
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:73:13-53
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:74:13-53
 	android:name
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:70:13-46
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:71:13-46
 activity#tech.berjis.lynnescorts.EditProfileActivity
-ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:74:9-78:56
+ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:75:9-79:56
 	android:screenOrientation
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:76:13-49
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:77:13-49
 	android:windowSoftInputMode
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:77:13-54
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:78:13-54
 	tools:ignore
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:78:13-53
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:79:13-53
 	android:name
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:75:13-48
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:76:13-48
 activity#tech.berjis.lynnescorts.SettingsActivity
-ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:79:9-83:56
+ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:80:9-84:56
 	android:screenOrientation
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:81:13-49
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:82:13-49
 	android:windowSoftInputMode
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:82:13-54
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:83:13-54
 	tools:ignore
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:83:13-53
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:84:13-53
 	android:name
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:80:13-45
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:81:13-45
 activity#tech.berjis.lynnescorts.ProfileActivity
-ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:84:9-88:56
+ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:85:9-89:56
 	android:screenOrientation
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:86:13-49
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:87:13-49
 	android:windowSoftInputMode
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:87:13-54
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:88:13-54
 	tools:ignore
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:88:13-53
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:89:13-53
 	android:name
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:85:13-44
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:86:13-44
 activity#tech.berjis.lynnescorts.FeedActivity
-ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:89:9-93:56
+ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:90:9-94:56
 	android:screenOrientation
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:91:13-49
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:92:13-49
 	android:windowSoftInputMode
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:92:13-54
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:93:13-54
 	tools:ignore
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:93:13-53
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:94:13-53
 	android:name
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:90:13-41
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:91:13-41
 activity#tech.berjis.lynnescorts.VerifyPhoneActivity
-ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:94:9-98:56
+ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:95:9-99:56
 	android:screenOrientation
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:96:13-49
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:97:13-49
 	android:windowSoftInputMode
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:97:13-54
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:98:13-54
 	tools:ignore
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:98:13-53
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:99:13-53
 	android:name
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:95:13-48
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:96:13-48
 activity#tech.berjis.lynnescorts.RegisterActivity
-ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:99:9-103:56
+ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:100:9-104:56
 	android:screenOrientation
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:101:13-49
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:102:13-49
 	android:windowSoftInputMode
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:102:13-54
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:103:13-54
 	tools:ignore
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:103:13-53
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:104:13-53
 	android:name
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:100:13-45
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:101:13-45
 activity#tech.berjis.lynnescorts.MainActivity
-ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:104:9-114:20
+ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:105:9-115:20
 	android:screenOrientation
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:106:13-49
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:107:13-49
 	android:windowSoftInputMode
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:107:13-54
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:108:13-54
 	tools:ignore
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:108:13-53
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:109:13-53
 	android:name
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:105:13-41
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:106:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:109:13-113:29
+ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:110:13-114:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:110:17-69
+ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:111:17-69
 	android:name
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:110:25-66
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:111:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:112:17-77
+ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:113:17-77
 	android:name
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:112:27-74
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:113:27-74
 activity#com.theartofdev.edmodo.cropper.CropImageActivity
-ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:115:9-117:59
+ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:116:9-118:59
 	android:theme
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:117:13-56
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:118:13-56
 	android:name
-		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:116:13-76
+		ADDED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:117:13-76
 uses-sdk
 INJECTED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml

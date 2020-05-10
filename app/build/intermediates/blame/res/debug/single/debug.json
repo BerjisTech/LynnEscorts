@@ -28,6 +28,10 @@
         "source": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\src\\main\\res\\layout\\activity_change_phone_number.xml"
     },
     {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile_active.png.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\src\\main\\res\\drawable\\profile_active.png"
+    },
+    {
         "merged": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
         "source": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\src\\main\\res\\layout\\activity_profile.xml"
     },
@@ -184,6 +188,10 @@
         "source": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\src\\main\\res\\drawable\\video.png"
     },
     {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\build\\intermediates\\res\\merged\\debug\\layout_gallery_image_view.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\src\\main\\res\\layout\\gallery_image_view.xml"
+    },
+    {
         "merged": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chevron_left.png.flat",
         "source": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\src\\main\\res\\drawable\\chevron_left.png"
     },
@@ -198,6 +206,10 @@
     {
         "merged": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\build\\intermediates\\res\\merged\\debug\\anim_move_left_out_activity.xml.flat",
         "source": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\src\\main\\res\\anim\\move_left_out_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_like_active.png.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\src\\main\\res\\drawable\\like_active.png"
     },
     {
         "merged": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\build\\intermediates\\res\\merged\\debug\\layout_feed.xml.flat",
@@ -252,12 +264,20 @@
         "source": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\src\\main\\res\\anim\\button_animation.xml"
     },
     {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\build\\intermediates\\res\\merged\\debug\\layout_comments.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\src\\main\\res\\layout\\comments.xml"
+    },
+    {
         "merged": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_d_ms.xml.flat",
         "source": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\src\\main\\res\\layout\\activity_d_ms.xml"
     },
     {
         "merged": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search.png.flat",
         "source": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_active.png.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\src\\main\\res\\drawable\\home_active.png"
     },
     {
         "merged": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_like.png.flat",
@@ -314,6 +334,10 @@
     {
         "merged": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.png.flat",
         "source": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_full_screen_gallery.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\src\\main\\res\\layout\\activity_full_screen_gallery.xml"
     },
     {
         "merged": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",

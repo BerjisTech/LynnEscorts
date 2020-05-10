@@ -2,7 +2,7 @@
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content">
+    android:layout_height="wrap_content" >
 
     <de.hdodenhof.circleimageview.CircleImageView
         android:id="@+id/userImage"
@@ -61,7 +61,7 @@
         android:layout_marginStart="10dp"
         android:layout_marginTop="10dp"
         android:layout_marginEnd="10dp"
-        app:cardCornerRadius="5dp"
+        app:cardCornerRadius="10dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/userImage">
@@ -72,9 +72,35 @@
             android:layout_height="match_parent"
             android:adjustViewBounds="true"
             android:scaleType="centerCrop"
-            android:src="@drawable/img_two" />
+            android:src="@drawable/add_image_button" />
 
     </androidx.cardview.widget.CardView>
+
+    <ImageView
+        android:id="@+id/cameraIcon"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginBottom="10dp"
+        android:elevation="200dp"
+        android:src="@drawable/camera"
+        android:visibility="gone"
+        app:layout_constraintBottom_toTopOf="@+id/postText"
+        app:layout_constraintEnd_toStartOf="@+id/imageCount" />
+
+
+    <TextView
+        android:id="@+id/imageCount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:elevation="200dp"
+        android:gravity="center"
+        android:text="+3"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="@+id/cameraIcon"
+        app:layout_constraintEnd_toEndOf="@+id/imageCard"
+        app:layout_constraintTop_toTopOf="@id/cameraIcon" />
 
     <com.vanniktech.emoji.EmojiTextView
         android:id="@+id/postText"

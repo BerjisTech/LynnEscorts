@@ -1988,6 +1988,7 @@ drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable green_btn_curved
 drawable home
+drawable home_active
 drawable ic_arrow_back_black_24dp
 drawable ic_arrow_forward_black_24dp
 drawable ic_backspace_black_24dp
@@ -2018,6 +2019,7 @@ drawable indicator_selected
 drawable indicator_selector
 drawable keyboard
 drawable like
+drawable like_active
 drawable logo
 drawable logout
 drawable master_card_logo_svg
@@ -2051,6 +2053,7 @@ drawable otp_button_curved
 drawable outer_border
 drawable padlock
 drawable profile
+drawable profile_active
 drawable recyclerview_background
 drawable rounded_layout
 drawable search
@@ -2231,12 +2234,14 @@ id browser_actions_menu_item_icon
 id browser_actions_menu_item_text
 id browser_actions_menu_items
 id browser_actions_menu_view
+id btn_emoji
 id btn_get_started
 id btn_next
 id button
 id buttonPanel
 id buttonSignIn
 id camera
+id cameraIcon
 id cancelDialogBtn
 id cancel_action
 id cancel_button
@@ -2267,7 +2272,9 @@ id collapseActionView
 id collapse_button
 id column
 id column_reverse
+id commentTime
 id comments
+id commentsRecycler
 id confirm_button
 id contact
 id container
@@ -2322,6 +2329,7 @@ id divider2
 id doneDialogBtn
 id dp
 id dropdown_menu
+id ed_emoji
 id edit
 id editTextCode
 id editText_search
@@ -2377,6 +2385,7 @@ id icon_uri
 id ifRoom
 id image
 id imageCard
+id imageCount
 id imagePager
 id imageView
 id imageView1
@@ -2428,7 +2437,6 @@ id list_item
 id logo
 id logout_btn
 id logout_txt
-id lol
 id masked
 id masked_pan_tv
 id match_global_nicknames
@@ -2632,6 +2640,7 @@ id rl_holder
 id rl_query_holder
 id rl_title
 id rootView
+id root_view
 id rounded
 id row
 id row_reverse
@@ -2649,6 +2658,7 @@ id scrollIndicatorDown
 id scrollIndicatorUp
 id scrollView
 id scrollable
+id scrollingIndicator
 id search
 id search_badge
 id search_bar
@@ -2770,6 +2780,7 @@ id updatePricing
 id updateProfile
 id url
 id useLogo
+id userComment
 id userDescription
 id userDescriptionHint
 id userEmail
@@ -2878,6 +2889,7 @@ layout activity_d_ms
 layout activity_edit_profile
 layout activity_faq
 layout activity_feed
+layout activity_full_screen_gallery
 layout activity_main
 layout activity_notifications
 layout activity_pricing
@@ -2894,6 +2906,7 @@ layout browser_actions_context_menu_row
 layout card
 layout card_landscape_inner
 layout card_portrait_inner
+layout comments
 layout crop_image_activity
 layout crop_image_view
 layout custom_dialog
@@ -2918,6 +2931,7 @@ layout emoji_view
 layout emoji_view_category
 layout fastscroll__default_bubble
 layout feed
+layout gallery_image_view
 layout image
 layout layout_code_picker
 layout layout_full_width_code_picker
@@ -3376,6 +3390,7 @@ style Animation_AppCompat_DropDownUp
 style Animation_AppCompat_Tooltip
 style Animation_Design_BottomSheetDialog
 style Animation_MaterialComponents_BottomSheetDialog
+style AppCustomTheme_DarkUI
 style AppCustomTheme_FullScreen
 style AppCustomTheme_NoActionBar
 style AppTheme

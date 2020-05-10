@@ -30,7 +30,15 @@ public class ImagePagerAdapter extends RecyclerView.Adapter<ImagePagerAdapter.Vi
     @NonNull
     @Override
     public ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
-        View view = mInflater.inflate(R.layout.new_post_image, parent, false);
+        View view = null;
+
+        if (view_type.equals("new_post")){
+            view = mInflater.inflate(R.layout.new_post_image, parent, false);
+        }
+        if (view_type.equals("gallery")){
+            view = mInflater.inflate(R.layout.gallery_image_view, parent, false);
+        }
+
         return new ViewHolder(view);
     }
 

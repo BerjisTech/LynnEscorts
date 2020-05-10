@@ -24,7 +24,8 @@
         android:roundIcon="@drawable/logo"
         android:supportsRtl="true"
         android:theme="@style/AppCustomTheme.NoActionBar">
-        <activity android:name=".PricingActivity"></activity>
+        <activity android:name=".FullScreenGallery"></activity>
+        <activity android:name=".PricingActivity" />
         <activity android:name=".ServicesActivity" />
         <activity
             android:name=".NotificationsActivity"

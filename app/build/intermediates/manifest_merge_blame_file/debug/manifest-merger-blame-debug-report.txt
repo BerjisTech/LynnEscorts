@@ -56,7 +56,7 @@
 26-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\93344a54810d6249d792bcad51b8c857\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:26:22-107
 27
 28    <application
-28-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:19:5-118:19
+28-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:19:5-119:19
 29        android:name="tech.berjis.lynnescorts.EmojiApplication"
 29-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:20:9-41
 30        android:allowBackup="true"
@@ -75,422 +75,425 @@
 37        android:testOnly="true"
 38        android:theme="@style/AppCustomTheme.NoActionBar" >
 38-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:26:9-58
-39        <activity android:name="tech.berjis.lynnescorts.PricingActivity" />
-39-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:27:9-62
-39-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:27:19-50
-40        <activity android:name="tech.berjis.lynnescorts.ServicesActivity" />
-40-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:28:9-54
-40-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:28:19-51
-41        <activity
-41-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:29:9-33:56
-42            android:name="tech.berjis.lynnescorts.NotificationsActivity"
-42-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:30:13-50
-43            android:screenOrientation="portrait"
-43-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:31:13-49
-44            android:windowSoftInputMode="stateHidden" />
-44-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:32:13-54
-45        <activity
-45-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:34:9-38:56
-46            android:name="tech.berjis.lynnescorts.DMsActivity"
-46-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:35:13-40
-47            android:screenOrientation="portrait"
-47-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:36:13-49
-48            android:windowSoftInputMode="stateHidden" />
-48-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:37:13-54
-49        <activity
-49-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:39:9-43:56
-50            android:name="tech.berjis.lynnescorts.DMActivity"
-50-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:40:13-39
-51            android:screenOrientation="portrait"
-51-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:41:13-49
-52            android:windowSoftInputMode="stateHidden" />
-52-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:42:13-54
-53        <activity
-53-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:44:9-48:56
-54            android:name="tech.berjis.lynnescorts.CreatePost"
-54-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:45:13-39
-55            android:screenOrientation="portrait"
-55-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:46:13-49
-56            android:windowSoftInputMode="stateHidden" />
-56-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:47:13-54
-57        <activity
-57-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:49:9-53:56
-58            android:name="tech.berjis.lynnescorts.AppInfo"
-58-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:50:13-36
-59            android:screenOrientation="portrait"
-59-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:51:13-49
-60            android:windowSoftInputMode="stateHidden" />
-60-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:52:13-54
-61        <activity
-61-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:54:9-58:56
-62            android:name="tech.berjis.lynnescorts.PrivacyActivity"
-62-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:55:13-44
-63            android:screenOrientation="portrait"
-63-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:56:13-49
-64            android:windowSoftInputMode="stateHidden" />
-64-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:57:13-54
-65        <activity
-65-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:59:9-63:56
-66            android:name="tech.berjis.lynnescorts.TermsActivity"
-66-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:60:13-42
-67            android:screenOrientation="portrait"
-67-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:61:13-49
-68            android:windowSoftInputMode="stateHidden" />
-68-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:62:13-54
-69        <activity
-69-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:64:9-68:56
-70            android:name="tech.berjis.lynnescorts.CommentsActivity"
-70-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:65:13-45
-71            android:screenOrientation="portrait"
-71-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:66:13-49
-72            android:windowSoftInputMode="stateHidden" />
-72-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:67:13-54
-73        <activity
-73-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:69:9-73:56
-74            android:name="tech.berjis.lynnescorts.ChangePhoneNumber"
-74-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:70:13-46
-75            android:screenOrientation="portrait"
-75-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:71:13-49
-76            android:windowSoftInputMode="stateHidden" />
-76-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:72:13-54
-77        <activity
-77-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:74:9-78:56
-78            android:name="tech.berjis.lynnescorts.EditProfileActivity"
-78-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:75:13-48
-79            android:screenOrientation="portrait"
-79-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:76:13-49
-80            android:windowSoftInputMode="stateHidden" />
-80-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:77:13-54
-81        <activity
-81-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:79:9-83:56
-82            android:name="tech.berjis.lynnescorts.SettingsActivity"
-82-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:80:13-45
-83            android:screenOrientation="portrait"
-83-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:81:13-49
-84            android:windowSoftInputMode="stateHidden" />
-84-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:82:13-54
-85        <activity
-85-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:84:9-88:56
-86            android:name="tech.berjis.lynnescorts.ProfileActivity"
-86-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:85:13-44
-87            android:screenOrientation="portrait"
-87-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:86:13-49
-88            android:windowSoftInputMode="stateHidden" />
-88-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:87:13-54
-89        <activity
-89-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:89:9-93:56
-90            android:name="tech.berjis.lynnescorts.FeedActivity"
-90-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:90:13-41
-91            android:screenOrientation="portrait"
-91-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:91:13-49
-92            android:windowSoftInputMode="stateHidden" />
-92-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:92:13-54
-93        <activity
-93-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:94:9-98:56
-94            android:name="tech.berjis.lynnescorts.VerifyPhoneActivity"
-94-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:95:13-48
-95            android:screenOrientation="portrait"
-95-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:96:13-49
-96            android:windowSoftInputMode="stateHidden" />
-96-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:97:13-54
-97        <activity
-97-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:99:9-103:56
-98            android:name="tech.berjis.lynnescorts.RegisterActivity"
-98-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:100:13-45
-99            android:screenOrientation="portrait"
-99-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:101:13-49
-100            android:windowSoftInputMode="stateHidden" />
-100-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:102:13-54
-101        <activity
-101-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:104:9-114:20
-102            android:name="tech.berjis.lynnescorts.MainActivity"
-102-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:105:13-41
-103            android:screenOrientation="portrait"
-103-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:106:13-49
-104            android:windowSoftInputMode="stateHidden" >
-104-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:107:13-54
-105            <intent-filter>
-105-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:109:13-113:29
-106                <action android:name="android.intent.action.MAIN" />
-106-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:110:17-69
-106-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:110:25-66
-107
-108                <category android:name="android.intent.category.LAUNCHER" />
-108-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:112:17-77
-108-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:112:27-74
-109            </intent-filter>
-110        </activity>
-111        <activity
-111-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:115:9-117:59
-112            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
-112-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:116:13-76
-113            android:theme="@style/Base.Theme.AppCompat" />
-113-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:117:13-56
-114
-115        <service
-115-->[com.google.firebase:firebase-inappmessaging-display:19.0.6] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\94351ad97b756f10c81e27a8ea62d7e0\jetified-firebase-inappmessaging-display-19.0.6\AndroidManifest.xml:15:9-21:19
-116            android:name="com.google.firebase.components.ComponentDiscoveryService"
-116-->[com.google.firebase:firebase-inappmessaging-display:19.0.6] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\94351ad97b756f10c81e27a8ea62d7e0\jetified-firebase-inappmessaging-display-19.0.6\AndroidManifest.xml:16:13-84
-117            android:directBootAware="true"
-117-->[com.google.firebase:firebase-common:19.3.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\3deb10f8139ef5717b3d54ada2a19ca4\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
-118            android:exported="false" >
-118-->[com.google.firebase:firebase-inappmessaging-display:19.0.6] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\94351ad97b756f10c81e27a8ea62d7e0\jetified-firebase-inappmessaging-display-19.0.6\AndroidManifest.xml:17:13-37
-119            <meta-data
-119-->[com.google.firebase:firebase-inappmessaging-display:19.0.6] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\94351ad97b756f10c81e27a8ea62d7e0\jetified-firebase-inappmessaging-display-19.0.6\AndroidManifest.xml:18:13-20:85
-120                android:name="com.google.firebase.components:com.google.firebase.inappmessaging.display.FirebaseInAppMessagingDisplayRegistrar"
-120-->[com.google.firebase:firebase-inappmessaging-display:19.0.6] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\94351ad97b756f10c81e27a8ea62d7e0\jetified-firebase-inappmessaging-display-19.0.6\AndroidManifest.xml:19:17-144
-121                android:value="com.google.firebase.components.ComponentRegistrar" />
-121-->[com.google.firebase:firebase-inappmessaging-display:19.0.6] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\94351ad97b756f10c81e27a8ea62d7e0\jetified-firebase-inappmessaging-display-19.0.6\AndroidManifest.xml:20:17-82
-122            <meta-data
-122-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\a965e02da0dc74b3cb82526fa169fefe\jetified-firebase-auth-19.3.1\AndroidManifest.xml:36:13-38:85
-123                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
-123-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\a965e02da0dc74b3cb82526fa169fefe\jetified-firebase-auth-19.3.1\AndroidManifest.xml:37:17-109
-124                android:value="com.google.firebase.components.ComponentRegistrar" />
-124-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\a965e02da0dc74b3cb82526fa169fefe\jetified-firebase-auth-19.3.1\AndroidManifest.xml:38:17-82
-125            <meta-data
-125-->[com.google.firebase:firebase-messaging:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c05668dc6f8608acae09ddae85d95554\jetified-firebase-messaging-20.1.7\AndroidManifest.xml:38:13-40:85
-126                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
-126-->[com.google.firebase:firebase-messaging:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c05668dc6f8608acae09ddae85d95554\jetified-firebase-messaging-20.1.7\AndroidManifest.xml:39:17-119
-127                android:value="com.google.firebase.components.ComponentRegistrar" />
-127-->[com.google.firebase:firebase-messaging:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c05668dc6f8608acae09ddae85d95554\jetified-firebase-messaging-20.1.7\AndroidManifest.xml:40:17-82
-128            <meta-data
-128-->[com.google.firebase:firebase-database:19.3.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\a858482f0d85511048b88d680e761880\jetified-firebase-database-19.3.0\AndroidManifest.xml:32:13-34:85
-129                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
-129-->[com.google.firebase:firebase-database:19.3.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\a858482f0d85511048b88d680e761880\jetified-firebase-database-19.3.0\AndroidManifest.xml:33:17-109
-130                android:value="com.google.firebase.components.ComponentRegistrar" />
-130-->[com.google.firebase:firebase-database:19.3.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\a858482f0d85511048b88d680e761880\jetified-firebase-database-19.3.0\AndroidManifest.xml:34:17-82
-131            <meta-data
-131-->[com.google.firebase:firebase-storage:19.1.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c8c55a9dfb88ee84ed4b575295b8e34f\jetified-firebase-storage-19.1.1\AndroidManifest.xml:33:13-35:85
-132                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
-132-->[com.google.firebase:firebase-storage:19.1.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c8c55a9dfb88ee84ed4b575295b8e34f\jetified-firebase-storage-19.1.1\AndroidManifest.xml:34:17-107
-133                android:value="com.google.firebase.components.ComponentRegistrar" />
-133-->[com.google.firebase:firebase-storage:19.1.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c8c55a9dfb88ee84ed4b575295b8e34f\jetified-firebase-storage-19.1.1\AndroidManifest.xml:35:17-82
-134            <meta-data
-134-->[com.google.firebase:firebase-config:19.1.4] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\f98161260caa7230e867e77083ad7366\jetified-firebase-config-19.1.4\AndroidManifest.xml:32:13-34:85
-135                android:name="com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar"
-135-->[com.google.firebase:firebase-config:19.1.4] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\f98161260caa7230e867e77083ad7366\jetified-firebase-config-19.1.4\AndroidManifest.xml:33:17-117
-136                android:value="com.google.firebase.components.ComponentRegistrar" />
-136-->[com.google.firebase:firebase-config:19.1.4] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\f98161260caa7230e867e77083ad7366\jetified-firebase-config-19.1.4\AndroidManifest.xml:34:17-82
-137            <meta-data
-137-->[com.google.firebase:firebase-functions:19.0.2] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\63630fff0342908c8f93169eada2fdab\jetified-firebase-functions-19.0.2\AndroidManifest.xml:18:13-20:85
-138                android:name="com.google.firebase.components:com.google.firebase.functions.FunctionsRegistrar"
-138-->[com.google.firebase:firebase-functions:19.0.2] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\63630fff0342908c8f93169eada2fdab\jetified-firebase-functions-19.0.2\AndroidManifest.xml:19:17-111
-139                android:value="com.google.firebase.components.ComponentRegistrar" />
-139-->[com.google.firebase:firebase-functions:19.0.2] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\63630fff0342908c8f93169eada2fdab\jetified-firebase-functions-19.0.2\AndroidManifest.xml:20:17-82
-140            <meta-data
-140-->[com.google.firebase:firebase-inappmessaging:19.0.6] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\e348afbbbaae962951e062f4320c5ceb\jetified-firebase-inappmessaging-19.0.6\AndroidManifest.xml:17:13-19:85
-141                android:name="com.google.firebase.components:com.google.firebase.inappmessaging.FirebaseInAppMessagingRegistrar"
-141-->[com.google.firebase:firebase-inappmessaging:19.0.6] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\e348afbbbaae962951e062f4320c5ceb\jetified-firebase-inappmessaging-19.0.6\AndroidManifest.xml:18:17-129
-142                android:value="com.google.firebase.components.ComponentRegistrar" />
-142-->[com.google.firebase:firebase-inappmessaging:19.0.6] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\e348afbbbaae962951e062f4320c5ceb\jetified-firebase-inappmessaging-19.0.6\AndroidManifest.xml:19:17-82
-143            <meta-data
-143-->[com.google.android.gms:play-services-measurement-api:17.4.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\7a31a249c23b671f80a71083143f7823\jetified-play-services-measurement-api-17.4.1\AndroidManifest.xml:30:13-32:85
-144                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
-144-->[com.google.android.gms:play-services-measurement-api:17.4.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\7a31a249c23b671f80a71083143f7823\jetified-play-services-measurement-api-17.4.1\AndroidManifest.xml:31:17-139
-145                android:value="com.google.firebase.components.ComponentRegistrar" />
-145-->[com.google.android.gms:play-services-measurement-api:17.4.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\7a31a249c23b671f80a71083143f7823\jetified-play-services-measurement-api-17.4.1\AndroidManifest.xml:32:17-82
-146            <meta-data
-146-->[com.google.firebase:firebase-iid:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\905f391112435c789e3a2727145dc679\jetified-firebase-iid-20.1.7\AndroidManifest.xml:32:13-34:85
-147                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
-147-->[com.google.firebase:firebase-iid:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\905f391112435c789e3a2727145dc679\jetified-firebase-iid-20.1.7\AndroidManifest.xml:33:17-96
-148                android:value="com.google.firebase.components.ComponentRegistrar" />
-148-->[com.google.firebase:firebase-iid:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\905f391112435c789e3a2727145dc679\jetified-firebase-iid-20.1.7\AndroidManifest.xml:34:17-82
-149            <meta-data
-149-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\d1f75898c761cea33a2c195c10b32583\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:28:13-30:85
-150                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
-150-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\d1f75898c761cea33a2c195c10b32583\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:29:17-115
-151                android:value="com.google.firebase.components.ComponentRegistrar" />
-151-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\d1f75898c761cea33a2c195c10b32583\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:30:17-82
-152            <meta-data
-152-->[com.google.firebase:firebase-installations:16.3.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\2d81ded185bc1b69e2a24856c7964f6a\jetified-firebase-installations-16.3.0\AndroidManifest.xml:17:13-19:85
-153                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
-153-->[com.google.firebase:firebase-installations:16.3.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\2d81ded185bc1b69e2a24856c7964f6a\jetified-firebase-installations-16.3.0\AndroidManifest.xml:18:17-127
-154                android:value="com.google.firebase.components.ComponentRegistrar" />
-154-->[com.google.firebase:firebase-installations:16.3.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\2d81ded185bc1b69e2a24856c7964f6a\jetified-firebase-installations-16.3.0\AndroidManifest.xml:19:17-82
-155            <meta-data
-155-->[com.google.firebase:firebase-abt:19.0.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\06b2cb0cb2b1c67079ea28a02afd9670\jetified-firebase-abt-19.0.1\AndroidManifest.xml:13:13-15:85
-156                android:name="com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar"
-156-->[com.google.firebase:firebase-abt:19.0.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\06b2cb0cb2b1c67079ea28a02afd9670\jetified-firebase-abt-19.0.1\AndroidManifest.xml:14:17-109
-157                android:value="com.google.firebase.components.ComponentRegistrar" />
-157-->[com.google.firebase:firebase-abt:19.0.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\06b2cb0cb2b1c67079ea28a02afd9670\jetified-firebase-abt-19.0.1\AndroidManifest.xml:15:17-82
-158        </service>
-159
-160        <activity
-160-->[com.github.Flutterwave:rave-android:1.0.49.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c6379f1ff1fea61b954c3da0f9a71b70\jetified-rave-android-1.0.49.1\AndroidManifest.xml:15:9-19:55
-161            android:name="com.flutterwave.raveandroid.RavePayActivity"
-161-->[com.github.Flutterwave:rave-android:1.0.49.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c6379f1ff1fea61b954c3da0f9a71b70\jetified-rave-android-1.0.49.1\AndroidManifest.xml:16:13-71
-162            android:label="@string/app_name"
-162-->[com.github.Flutterwave:rave-android:1.0.49.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c6379f1ff1fea61b954c3da0f9a71b70\jetified-rave-android-1.0.49.1\AndroidManifest.xml:17:13-45
-163            android:screenOrientation="portrait"
-163-->[com.github.Flutterwave:rave-android:1.0.49.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c6379f1ff1fea61b954c3da0f9a71b70\jetified-rave-android-1.0.49.1\AndroidManifest.xml:18:13-49
-164            android:windowSoftInputMode="adjustPan" />
-164-->[com.github.Flutterwave:rave-android:1.0.49.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c6379f1ff1fea61b954c3da0f9a71b70\jetified-rave-android-1.0.49.1\AndroidManifest.xml:19:13-52
-165        <activity
-165-->[com.github.Flutterwave:rave-android:1.0.49.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c6379f1ff1fea61b954c3da0f9a71b70\jetified-rave-android-1.0.49.1\AndroidManifest.xml:20:9-22:52
-166            android:name="com.flutterwave.raveandroid.verification.VerificationActivity"
-166-->[com.github.Flutterwave:rave-android:1.0.49.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c6379f1ff1fea61b954c3da0f9a71b70\jetified-rave-android-1.0.49.1\AndroidManifest.xml:21:13-89
-167            android:screenOrientation="portrait" />
-167-->[com.github.Flutterwave:rave-android:1.0.49.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c6379f1ff1fea61b954c3da0f9a71b70\jetified-rave-android-1.0.49.1\AndroidManifest.xml:22:13-49
-168        <activity
-168-->[com.github.Flutterwave:rave-android:1.0.49.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c6379f1ff1fea61b954c3da0f9a71b70\jetified-rave-android-1.0.49.1\AndroidManifest.xml:23:9-25:52
-169            android:name="com.flutterwave.raveandroid.card.savedcards.SavedCardsActivity"
-169-->[com.github.Flutterwave:rave-android:1.0.49.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c6379f1ff1fea61b954c3da0f9a71b70\jetified-rave-android-1.0.49.1\AndroidManifest.xml:24:13-90
-170            android:screenOrientation="portrait" />
-170-->[com.github.Flutterwave:rave-android:1.0.49.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c6379f1ff1fea61b954c3da0f9a71b70\jetified-rave-android-1.0.49.1\AndroidManifest.xml:25:13-49
-171        <activity
-171-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\a965e02da0dc74b3cb82526fa169fefe\jetified-firebase-auth-19.3.1\AndroidManifest.xml:24:9-31:50
-172            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
-172-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\a965e02da0dc74b3cb82526fa169fefe\jetified-firebase-auth-19.3.1\AndroidManifest.xml:25:13-85
-173            android:excludeFromRecents="true"
-173-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\a965e02da0dc74b3cb82526fa169fefe\jetified-firebase-auth-19.3.1\AndroidManifest.xml:26:13-46
-174            android:exported="true"
-174-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\a965e02da0dc74b3cb82526fa169fefe\jetified-firebase-auth-19.3.1\AndroidManifest.xml:27:13-36
-175            android:launchMode="singleTask"
-175-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\a965e02da0dc74b3cb82526fa169fefe\jetified-firebase-auth-19.3.1\AndroidManifest.xml:28:13-44
-176            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
-176-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\a965e02da0dc74b3cb82526fa169fefe\jetified-firebase-auth-19.3.1\AndroidManifest.xml:29:13-102
-177            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-177-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\a965e02da0dc74b3cb82526fa169fefe\jetified-firebase-auth-19.3.1\AndroidManifest.xml:30:13-72
-178        <!--
-179             FirebaseMessagingService performs security checks at runtime,
-180             but set to not exported to explicitly avoid allowing another app to call it.
-181        -->
-182        <service
-182-->[com.google.firebase:firebase-messaging:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c05668dc6f8608acae09ddae85d95554\jetified-firebase-messaging-20.1.7\AndroidManifest.xml:28:9-34:19
-183            android:name="com.google.firebase.messaging.FirebaseMessagingService"
-183-->[com.google.firebase:firebase-messaging:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c05668dc6f8608acae09ddae85d95554\jetified-firebase-messaging-20.1.7\AndroidManifest.xml:29:13-82
-184            android:exported="false" >
-184-->[com.google.firebase:firebase-messaging:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c05668dc6f8608acae09ddae85d95554\jetified-firebase-messaging-20.1.7\AndroidManifest.xml:30:13-37
-185            <intent-filter android:priority="-500" >
-185-->[com.google.firebase:firebase-messaging:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c05668dc6f8608acae09ddae85d95554\jetified-firebase-messaging-20.1.7\AndroidManifest.xml:31:13-33:29
-185-->[com.google.firebase:firebase-messaging:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c05668dc6f8608acae09ddae85d95554\jetified-firebase-messaging-20.1.7\AndroidManifest.xml:31:28-51
-186                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-186-->[com.google.firebase:firebase-messaging:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c05668dc6f8608acae09ddae85d95554\jetified-firebase-messaging-20.1.7\AndroidManifest.xml:32:17-78
-186-->[com.google.firebase:firebase-messaging:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c05668dc6f8608acae09ddae85d95554\jetified-firebase-messaging-20.1.7\AndroidManifest.xml:32:25-75
-187            </intent-filter>
-188        </service>
-189
-190        <provider
-190-->[com.squareup.picasso:picasso:2.71828] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\29cb0cf0ff0b22bbcbd34bff3e118815\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
-191            android:name="com.squareup.picasso.PicassoProvider"
-191-->[com.squareup.picasso:picasso:2.71828] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\29cb0cf0ff0b22bbcbd34bff3e118815\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
-192            android:authorities="tech.berjis.lynnescorts.com.squareup.picasso"
-192-->[com.squareup.picasso:picasso:2.71828] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\29cb0cf0ff0b22bbcbd34bff3e118815\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
-193            android:exported="false" />
-193-->[com.squareup.picasso:picasso:2.71828] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\29cb0cf0ff0b22bbcbd34bff3e118815\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
-194
-195        <receiver
-195-->[com.google.firebase:firebase-iid:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\905f391112435c789e3a2727145dc679\jetified-firebase-iid-20.1.7\AndroidManifest.xml:37:9-44:20
-196            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
-196-->[com.google.firebase:firebase-iid:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\905f391112435c789e3a2727145dc679\jetified-firebase-iid-20.1.7\AndroidManifest.xml:38:13-78
-197            android:exported="true"
-197-->[com.google.firebase:firebase-iid:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\905f391112435c789e3a2727145dc679\jetified-firebase-iid-20.1.7\AndroidManifest.xml:39:13-36
-198            android:permission="com.google.android.c2dm.permission.SEND" >
-198-->[com.google.firebase:firebase-iid:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\905f391112435c789e3a2727145dc679\jetified-firebase-iid-20.1.7\AndroidManifest.xml:40:13-73
-199            <intent-filter>
-199-->[com.google.firebase:firebase-iid:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\905f391112435c789e3a2727145dc679\jetified-firebase-iid-20.1.7\AndroidManifest.xml:41:13-43:29
-200                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-200-->[com.google.firebase:firebase-iid:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\905f391112435c789e3a2727145dc679\jetified-firebase-iid-20.1.7\AndroidManifest.xml:42:17-81
-200-->[com.google.firebase:firebase-iid:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\905f391112435c789e3a2727145dc679\jetified-firebase-iid-20.1.7\AndroidManifest.xml:42:25-78
-201            </intent-filter>
-202        </receiver>
-203
-204        <activity
-204-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\75e7c473eccef2b3a0eec97fa3a7825b\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
-205            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-205-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\75e7c473eccef2b3a0eec97fa3a7825b\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
-206            android:exported="false"
-206-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\75e7c473eccef2b3a0eec97fa3a7825b\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
-207            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-207-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\75e7c473eccef2b3a0eec97fa3a7825b\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
-208
-209        <provider
-209-->[com.google.firebase:firebase-common:19.3.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\3deb10f8139ef5717b3d54ada2a19ca4\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
-210            android:name="com.google.firebase.provider.FirebaseInitProvider"
-210-->[com.google.firebase:firebase-common:19.3.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\3deb10f8139ef5717b3d54ada2a19ca4\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
-211            android:authorities="tech.berjis.lynnescorts.firebaseinitprovider"
-211-->[com.google.firebase:firebase-common:19.3.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\3deb10f8139ef5717b3d54ada2a19ca4\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
-212            android:exported="false"
-212-->[com.google.firebase:firebase-common:19.3.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\3deb10f8139ef5717b3d54ada2a19ca4\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
-213            android:initOrder="100" />
-213-->[com.google.firebase:firebase-common:19.3.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\3deb10f8139ef5717b3d54ada2a19ca4\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
-214
-215        <receiver
-215-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\93344a54810d6249d792bcad51b8c857\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:29:9-33:20
-216            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
-216-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\93344a54810d6249d792bcad51b8c857\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:30:13-85
-217            android:enabled="true"
-217-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\93344a54810d6249d792bcad51b8c857\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:31:13-35
-218            android:exported="false" >
-218-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\93344a54810d6249d792bcad51b8c857\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:32:13-37
-219        </receiver>
-220
-221        <service
-221-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\93344a54810d6249d792bcad51b8c857\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:35:9-38:40
-222            android:name="com.google.android.gms.measurement.AppMeasurementService"
-222-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\93344a54810d6249d792bcad51b8c857\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:36:13-84
-223            android:enabled="true"
-223-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\93344a54810d6249d792bcad51b8c857\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:37:13-35
-224            android:exported="false" />
-224-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\93344a54810d6249d792bcad51b8c857\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:38:13-37
-225        <service
-225-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\93344a54810d6249d792bcad51b8c857\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:39:9-43:72
-226            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
-226-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\93344a54810d6249d792bcad51b8c857\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:40:13-87
-227            android:enabled="true"
-227-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\93344a54810d6249d792bcad51b8c857\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:41:13-35
-228            android:exported="false"
-228-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\93344a54810d6249d792bcad51b8c857\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:42:13-37
-229            android:permission="android.permission.BIND_JOB_SERVICE" />
-229-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\93344a54810d6249d792bcad51b8c857\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:43:13-69
-230
-231        <meta-data
-231-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\164bb505b81f338baa0db13edd04c1d1\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
-232            android:name="com.google.android.gms.version"
-232-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\164bb505b81f338baa0db13edd04c1d1\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
-233            android:value="@integer/google_play_services_version" />
-233-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\164bb505b81f338baa0db13edd04c1d1\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
-234
-235        <service
-235-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\af8b852dc9492850dfd58fa4b08b6b31\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:29:9-35:19
-236            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
-236-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\af8b852dc9492850dfd58fa4b08b6b31\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:30:13-103
-237            android:exported="false" >
-237-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\af8b852dc9492850dfd58fa4b08b6b31\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:31:13-37
-238            <meta-data
-238-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\af8b852dc9492850dfd58fa4b08b6b31\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:32:13-34:39
-239                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
-239-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\af8b852dc9492850dfd58fa4b08b6b31\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:33:17-94
-240                android:value="cct" />
-240-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\af8b852dc9492850dfd58fa4b08b6b31\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:34:17-36
-241        </service>
-242        <service
-242-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\6ef9d023f91cb51a7dcd488e27c3d1cb\jetified-transport-runtime-2.2.0\AndroidManifest.xml:26:9-30:19
-243            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
-243-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\6ef9d023f91cb51a7dcd488e27c3d1cb\jetified-transport-runtime-2.2.0\AndroidManifest.xml:27:13-117
-244            android:exported="false"
-244-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\6ef9d023f91cb51a7dcd488e27c3d1cb\jetified-transport-runtime-2.2.0\AndroidManifest.xml:28:13-37
-245            android:permission="android.permission.BIND_JOB_SERVICE" >
-245-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\6ef9d023f91cb51a7dcd488e27c3d1cb\jetified-transport-runtime-2.2.0\AndroidManifest.xml:29:13-69
-246        </service>
-247
-248        <receiver
-248-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\6ef9d023f91cb51a7dcd488e27c3d1cb\jetified-transport-runtime-2.2.0\AndroidManifest.xml:32:9-34:40
-249            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
-249-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\6ef9d023f91cb51a7dcd488e27c3d1cb\jetified-transport-runtime-2.2.0\AndroidManifest.xml:33:13-132
-250            android:exported="false" />
-250-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\6ef9d023f91cb51a7dcd488e27c3d1cb\jetified-transport-runtime-2.2.0\AndroidManifest.xml:34:13-37
-251
-252        <provider
-252-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\05159317f21a2dd1d02987b6e5d9b612\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
-253            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-253-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\05159317f21a2dd1d02987b6e5d9b612\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
-254            android:authorities="tech.berjis.lynnescorts.lifecycle-process"
-254-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\05159317f21a2dd1d02987b6e5d9b612\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
-255            android:exported="false"
-255-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\05159317f21a2dd1d02987b6e5d9b612\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
-256            android:multiprocess="true" />
-256-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\05159317f21a2dd1d02987b6e5d9b612\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
-257    </application>
-258
-259</manifest>
+39        <activity android:name="tech.berjis.lynnescorts.FullScreenGallery" />
+39-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:27:9-64
+39-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:27:19-52
+40        <activity android:name="tech.berjis.lynnescorts.PricingActivity" />
+40-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:28:9-53
+40-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:28:19-50
+41        <activity android:name="tech.berjis.lynnescorts.ServicesActivity" />
+41-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:29:9-54
+41-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:29:19-51
+42        <activity
+42-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:30:9-34:56
+43            android:name="tech.berjis.lynnescorts.NotificationsActivity"
+43-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:31:13-50
+44            android:screenOrientation="portrait"
+44-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:32:13-49
+45            android:windowSoftInputMode="stateHidden" />
+45-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:33:13-54
+46        <activity
+46-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:35:9-39:56
+47            android:name="tech.berjis.lynnescorts.DMsActivity"
+47-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:36:13-40
+48            android:screenOrientation="portrait"
+48-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:37:13-49
+49            android:windowSoftInputMode="stateHidden" />
+49-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:38:13-54
+50        <activity
+50-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:40:9-44:56
+51            android:name="tech.berjis.lynnescorts.DMActivity"
+51-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:41:13-39
+52            android:screenOrientation="portrait"
+52-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:42:13-49
+53            android:windowSoftInputMode="stateHidden" />
+53-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:43:13-54
+54        <activity
+54-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:45:9-49:56
+55            android:name="tech.berjis.lynnescorts.CreatePost"
+55-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:46:13-39
+56            android:screenOrientation="portrait"
+56-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:47:13-49
+57            android:windowSoftInputMode="stateHidden" />
+57-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:48:13-54
+58        <activity
+58-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:50:9-54:56
+59            android:name="tech.berjis.lynnescorts.AppInfo"
+59-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:51:13-36
+60            android:screenOrientation="portrait"
+60-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:52:13-49
+61            android:windowSoftInputMode="stateHidden" />
+61-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:53:13-54
+62        <activity
+62-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:55:9-59:56
+63            android:name="tech.berjis.lynnescorts.PrivacyActivity"
+63-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:56:13-44
+64            android:screenOrientation="portrait"
+64-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:57:13-49
+65            android:windowSoftInputMode="stateHidden" />
+65-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:58:13-54
+66        <activity
+66-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:60:9-64:56
+67            android:name="tech.berjis.lynnescorts.TermsActivity"
+67-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:61:13-42
+68            android:screenOrientation="portrait"
+68-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:62:13-49
+69            android:windowSoftInputMode="stateHidden" />
+69-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:63:13-54
+70        <activity
+70-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:65:9-69:56
+71            android:name="tech.berjis.lynnescorts.CommentsActivity"
+71-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:66:13-45
+72            android:screenOrientation="portrait"
+72-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:67:13-49
+73            android:windowSoftInputMode="stateHidden" />
+73-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:68:13-54
+74        <activity
+74-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:70:9-74:56
+75            android:name="tech.berjis.lynnescorts.ChangePhoneNumber"
+75-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:71:13-46
+76            android:screenOrientation="portrait"
+76-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:72:13-49
+77            android:windowSoftInputMode="stateHidden" />
+77-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:73:13-54
+78        <activity
+78-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:75:9-79:56
+79            android:name="tech.berjis.lynnescorts.EditProfileActivity"
+79-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:76:13-48
+80            android:screenOrientation="portrait"
+80-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:77:13-49
+81            android:windowSoftInputMode="stateHidden" />
+81-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:78:13-54
+82        <activity
+82-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:80:9-84:56
+83            android:name="tech.berjis.lynnescorts.SettingsActivity"
+83-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:81:13-45
+84            android:screenOrientation="portrait"
+84-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:82:13-49
+85            android:windowSoftInputMode="stateHidden" />
+85-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:83:13-54
+86        <activity
+86-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:85:9-89:56
+87            android:name="tech.berjis.lynnescorts.ProfileActivity"
+87-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:86:13-44
+88            android:screenOrientation="portrait"
+88-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:87:13-49
+89            android:windowSoftInputMode="stateHidden" />
+89-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:88:13-54
+90        <activity
+90-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:90:9-94:56
+91            android:name="tech.berjis.lynnescorts.FeedActivity"
+91-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:91:13-41
+92            android:screenOrientation="portrait"
+92-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:92:13-49
+93            android:windowSoftInputMode="stateHidden" />
+93-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:93:13-54
+94        <activity
+94-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:95:9-99:56
+95            android:name="tech.berjis.lynnescorts.VerifyPhoneActivity"
+95-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:96:13-48
+96            android:screenOrientation="portrait"
+96-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:97:13-49
+97            android:windowSoftInputMode="stateHidden" />
+97-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:98:13-54
+98        <activity
+98-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:100:9-104:56
+99            android:name="tech.berjis.lynnescorts.RegisterActivity"
+99-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:101:13-45
+100            android:screenOrientation="portrait"
+100-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:102:13-49
+101            android:windowSoftInputMode="stateHidden" />
+101-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:103:13-54
+102        <activity
+102-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:105:9-115:20
+103            android:name="tech.berjis.lynnescorts.MainActivity"
+103-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:106:13-41
+104            android:screenOrientation="portrait"
+104-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:107:13-49
+105            android:windowSoftInputMode="stateHidden" >
+105-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:108:13-54
+106            <intent-filter>
+106-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:110:13-114:29
+107                <action android:name="android.intent.action.MAIN" />
+107-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:111:17-69
+107-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:111:25-66
+108
+109                <category android:name="android.intent.category.LAUNCHER" />
+109-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:113:17-77
+109-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:113:27-74
+110            </intent-filter>
+111        </activity>
+112        <activity
+112-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:116:9-118:59
+113            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+113-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:117:13-76
+114            android:theme="@style/Base.Theme.AppCompat" />
+114-->C:\Users\bened\AndroidStudioProjects\lynnescorts\app\src\main\AndroidManifest.xml:118:13-56
+115
+116        <service
+116-->[com.google.firebase:firebase-inappmessaging-display:19.0.6] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\94351ad97b756f10c81e27a8ea62d7e0\jetified-firebase-inappmessaging-display-19.0.6\AndroidManifest.xml:15:9-21:19
+117            android:name="com.google.firebase.components.ComponentDiscoveryService"
+117-->[com.google.firebase:firebase-inappmessaging-display:19.0.6] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\94351ad97b756f10c81e27a8ea62d7e0\jetified-firebase-inappmessaging-display-19.0.6\AndroidManifest.xml:16:13-84
+118            android:directBootAware="true"
+118-->[com.google.firebase:firebase-common:19.3.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\3deb10f8139ef5717b3d54ada2a19ca4\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+119            android:exported="false" >
+119-->[com.google.firebase:firebase-inappmessaging-display:19.0.6] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\94351ad97b756f10c81e27a8ea62d7e0\jetified-firebase-inappmessaging-display-19.0.6\AndroidManifest.xml:17:13-37
+120            <meta-data
+120-->[com.google.firebase:firebase-inappmessaging-display:19.0.6] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\94351ad97b756f10c81e27a8ea62d7e0\jetified-firebase-inappmessaging-display-19.0.6\AndroidManifest.xml:18:13-20:85
+121                android:name="com.google.firebase.components:com.google.firebase.inappmessaging.display.FirebaseInAppMessagingDisplayRegistrar"
+121-->[com.google.firebase:firebase-inappmessaging-display:19.0.6] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\94351ad97b756f10c81e27a8ea62d7e0\jetified-firebase-inappmessaging-display-19.0.6\AndroidManifest.xml:19:17-144
+122                android:value="com.google.firebase.components.ComponentRegistrar" />
+122-->[com.google.firebase:firebase-inappmessaging-display:19.0.6] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\94351ad97b756f10c81e27a8ea62d7e0\jetified-firebase-inappmessaging-display-19.0.6\AndroidManifest.xml:20:17-82
+123            <meta-data
+123-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\a965e02da0dc74b3cb82526fa169fefe\jetified-firebase-auth-19.3.1\AndroidManifest.xml:36:13-38:85
+124                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+124-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\a965e02da0dc74b3cb82526fa169fefe\jetified-firebase-auth-19.3.1\AndroidManifest.xml:37:17-109
+125                android:value="com.google.firebase.components.ComponentRegistrar" />
+125-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\a965e02da0dc74b3cb82526fa169fefe\jetified-firebase-auth-19.3.1\AndroidManifest.xml:38:17-82
+126            <meta-data
+126-->[com.google.firebase:firebase-messaging:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c05668dc6f8608acae09ddae85d95554\jetified-firebase-messaging-20.1.7\AndroidManifest.xml:38:13-40:85
+127                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+127-->[com.google.firebase:firebase-messaging:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c05668dc6f8608acae09ddae85d95554\jetified-firebase-messaging-20.1.7\AndroidManifest.xml:39:17-119
+128                android:value="com.google.firebase.components.ComponentRegistrar" />
+128-->[com.google.firebase:firebase-messaging:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c05668dc6f8608acae09ddae85d95554\jetified-firebase-messaging-20.1.7\AndroidManifest.xml:40:17-82
+129            <meta-data
+129-->[com.google.firebase:firebase-database:19.3.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\a858482f0d85511048b88d680e761880\jetified-firebase-database-19.3.0\AndroidManifest.xml:32:13-34:85
+130                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+130-->[com.google.firebase:firebase-database:19.3.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\a858482f0d85511048b88d680e761880\jetified-firebase-database-19.3.0\AndroidManifest.xml:33:17-109
+131                android:value="com.google.firebase.components.ComponentRegistrar" />
+131-->[com.google.firebase:firebase-database:19.3.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\a858482f0d85511048b88d680e761880\jetified-firebase-database-19.3.0\AndroidManifest.xml:34:17-82
+132            <meta-data
+132-->[com.google.firebase:firebase-storage:19.1.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c8c55a9dfb88ee84ed4b575295b8e34f\jetified-firebase-storage-19.1.1\AndroidManifest.xml:33:13-35:85
+133                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+133-->[com.google.firebase:firebase-storage:19.1.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c8c55a9dfb88ee84ed4b575295b8e34f\jetified-firebase-storage-19.1.1\AndroidManifest.xml:34:17-107
+134                android:value="com.google.firebase.components.ComponentRegistrar" />
+134-->[com.google.firebase:firebase-storage:19.1.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c8c55a9dfb88ee84ed4b575295b8e34f\jetified-firebase-storage-19.1.1\AndroidManifest.xml:35:17-82
+135            <meta-data
+135-->[com.google.firebase:firebase-config:19.1.4] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\f98161260caa7230e867e77083ad7366\jetified-firebase-config-19.1.4\AndroidManifest.xml:32:13-34:85
+136                android:name="com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar"
+136-->[com.google.firebase:firebase-config:19.1.4] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\f98161260caa7230e867e77083ad7366\jetified-firebase-config-19.1.4\AndroidManifest.xml:33:17-117
+137                android:value="com.google.firebase.components.ComponentRegistrar" />
+137-->[com.google.firebase:firebase-config:19.1.4] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\f98161260caa7230e867e77083ad7366\jetified-firebase-config-19.1.4\AndroidManifest.xml:34:17-82
+138            <meta-data
+138-->[com.google.firebase:firebase-functions:19.0.2] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\63630fff0342908c8f93169eada2fdab\jetified-firebase-functions-19.0.2\AndroidManifest.xml:18:13-20:85
+139                android:name="com.google.firebase.components:com.google.firebase.functions.FunctionsRegistrar"
+139-->[com.google.firebase:firebase-functions:19.0.2] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\63630fff0342908c8f93169eada2fdab\jetified-firebase-functions-19.0.2\AndroidManifest.xml:19:17-111
+140                android:value="com.google.firebase.components.ComponentRegistrar" />
+140-->[com.google.firebase:firebase-functions:19.0.2] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\63630fff0342908c8f93169eada2fdab\jetified-firebase-functions-19.0.2\AndroidManifest.xml:20:17-82
+141            <meta-data
+141-->[com.google.firebase:firebase-inappmessaging:19.0.6] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\e348afbbbaae962951e062f4320c5ceb\jetified-firebase-inappmessaging-19.0.6\AndroidManifest.xml:17:13-19:85
+142                android:name="com.google.firebase.components:com.google.firebase.inappmessaging.FirebaseInAppMessagingRegistrar"
+142-->[com.google.firebase:firebase-inappmessaging:19.0.6] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\e348afbbbaae962951e062f4320c5ceb\jetified-firebase-inappmessaging-19.0.6\AndroidManifest.xml:18:17-129
+143                android:value="com.google.firebase.components.ComponentRegistrar" />
+143-->[com.google.firebase:firebase-inappmessaging:19.0.6] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\e348afbbbaae962951e062f4320c5ceb\jetified-firebase-inappmessaging-19.0.6\AndroidManifest.xml:19:17-82
+144            <meta-data
+144-->[com.google.android.gms:play-services-measurement-api:17.4.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\7a31a249c23b671f80a71083143f7823\jetified-play-services-measurement-api-17.4.1\AndroidManifest.xml:30:13-32:85
+145                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+145-->[com.google.android.gms:play-services-measurement-api:17.4.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\7a31a249c23b671f80a71083143f7823\jetified-play-services-measurement-api-17.4.1\AndroidManifest.xml:31:17-139
+146                android:value="com.google.firebase.components.ComponentRegistrar" />
+146-->[com.google.android.gms:play-services-measurement-api:17.4.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\7a31a249c23b671f80a71083143f7823\jetified-play-services-measurement-api-17.4.1\AndroidManifest.xml:32:17-82
+147            <meta-data
+147-->[com.google.firebase:firebase-iid:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\905f391112435c789e3a2727145dc679\jetified-firebase-iid-20.1.7\AndroidManifest.xml:32:13-34:85
+148                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+148-->[com.google.firebase:firebase-iid:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\905f391112435c789e3a2727145dc679\jetified-firebase-iid-20.1.7\AndroidManifest.xml:33:17-96
+149                android:value="com.google.firebase.components.ComponentRegistrar" />
+149-->[com.google.firebase:firebase-iid:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\905f391112435c789e3a2727145dc679\jetified-firebase-iid-20.1.7\AndroidManifest.xml:34:17-82
+150            <meta-data
+150-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\d1f75898c761cea33a2c195c10b32583\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:28:13-30:85
+151                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+151-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\d1f75898c761cea33a2c195c10b32583\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:29:17-115
+152                android:value="com.google.firebase.components.ComponentRegistrar" />
+152-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\d1f75898c761cea33a2c195c10b32583\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:30:17-82
+153            <meta-data
+153-->[com.google.firebase:firebase-installations:16.3.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\2d81ded185bc1b69e2a24856c7964f6a\jetified-firebase-installations-16.3.0\AndroidManifest.xml:17:13-19:85
+154                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+154-->[com.google.firebase:firebase-installations:16.3.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\2d81ded185bc1b69e2a24856c7964f6a\jetified-firebase-installations-16.3.0\AndroidManifest.xml:18:17-127
+155                android:value="com.google.firebase.components.ComponentRegistrar" />
+155-->[com.google.firebase:firebase-installations:16.3.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\2d81ded185bc1b69e2a24856c7964f6a\jetified-firebase-installations-16.3.0\AndroidManifest.xml:19:17-82
+156            <meta-data
+156-->[com.google.firebase:firebase-abt:19.0.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\06b2cb0cb2b1c67079ea28a02afd9670\jetified-firebase-abt-19.0.1\AndroidManifest.xml:13:13-15:85
+157                android:name="com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar"
+157-->[com.google.firebase:firebase-abt:19.0.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\06b2cb0cb2b1c67079ea28a02afd9670\jetified-firebase-abt-19.0.1\AndroidManifest.xml:14:17-109
+158                android:value="com.google.firebase.components.ComponentRegistrar" />
+158-->[com.google.firebase:firebase-abt:19.0.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\06b2cb0cb2b1c67079ea28a02afd9670\jetified-firebase-abt-19.0.1\AndroidManifest.xml:15:17-82
+159        </service>
+160
+161        <activity
+161-->[com.github.Flutterwave:rave-android:1.0.49.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c6379f1ff1fea61b954c3da0f9a71b70\jetified-rave-android-1.0.49.1\AndroidManifest.xml:15:9-19:55
+162            android:name="com.flutterwave.raveandroid.RavePayActivity"
+162-->[com.github.Flutterwave:rave-android:1.0.49.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c6379f1ff1fea61b954c3da0f9a71b70\jetified-rave-android-1.0.49.1\AndroidManifest.xml:16:13-71
+163            android:label="@string/app_name"
+163-->[com.github.Flutterwave:rave-android:1.0.49.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c6379f1ff1fea61b954c3da0f9a71b70\jetified-rave-android-1.0.49.1\AndroidManifest.xml:17:13-45
+164            android:screenOrientation="portrait"
+164-->[com.github.Flutterwave:rave-android:1.0.49.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c6379f1ff1fea61b954c3da0f9a71b70\jetified-rave-android-1.0.49.1\AndroidManifest.xml:18:13-49
+165            android:windowSoftInputMode="adjustPan" />
+165-->[com.github.Flutterwave:rave-android:1.0.49.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c6379f1ff1fea61b954c3da0f9a71b70\jetified-rave-android-1.0.49.1\AndroidManifest.xml:19:13-52
+166        <activity
+166-->[com.github.Flutterwave:rave-android:1.0.49.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c6379f1ff1fea61b954c3da0f9a71b70\jetified-rave-android-1.0.49.1\AndroidManifest.xml:20:9-22:52
+167            android:name="com.flutterwave.raveandroid.verification.VerificationActivity"
+167-->[com.github.Flutterwave:rave-android:1.0.49.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c6379f1ff1fea61b954c3da0f9a71b70\jetified-rave-android-1.0.49.1\AndroidManifest.xml:21:13-89
+168            android:screenOrientation="portrait" />
+168-->[com.github.Flutterwave:rave-android:1.0.49.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c6379f1ff1fea61b954c3da0f9a71b70\jetified-rave-android-1.0.49.1\AndroidManifest.xml:22:13-49
+169        <activity
+169-->[com.github.Flutterwave:rave-android:1.0.49.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c6379f1ff1fea61b954c3da0f9a71b70\jetified-rave-android-1.0.49.1\AndroidManifest.xml:23:9-25:52
+170            android:name="com.flutterwave.raveandroid.card.savedcards.SavedCardsActivity"
+170-->[com.github.Flutterwave:rave-android:1.0.49.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c6379f1ff1fea61b954c3da0f9a71b70\jetified-rave-android-1.0.49.1\AndroidManifest.xml:24:13-90
+171            android:screenOrientation="portrait" />
+171-->[com.github.Flutterwave:rave-android:1.0.49.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c6379f1ff1fea61b954c3da0f9a71b70\jetified-rave-android-1.0.49.1\AndroidManifest.xml:25:13-49
+172        <activity
+172-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\a965e02da0dc74b3cb82526fa169fefe\jetified-firebase-auth-19.3.1\AndroidManifest.xml:24:9-31:50
+173            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+173-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\a965e02da0dc74b3cb82526fa169fefe\jetified-firebase-auth-19.3.1\AndroidManifest.xml:25:13-85
+174            android:excludeFromRecents="true"
+174-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\a965e02da0dc74b3cb82526fa169fefe\jetified-firebase-auth-19.3.1\AndroidManifest.xml:26:13-46
+175            android:exported="true"
+175-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\a965e02da0dc74b3cb82526fa169fefe\jetified-firebase-auth-19.3.1\AndroidManifest.xml:27:13-36
+176            android:launchMode="singleTask"
+176-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\a965e02da0dc74b3cb82526fa169fefe\jetified-firebase-auth-19.3.1\AndroidManifest.xml:28:13-44
+177            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+177-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\a965e02da0dc74b3cb82526fa169fefe\jetified-firebase-auth-19.3.1\AndroidManifest.xml:29:13-102
+178            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+178-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\a965e02da0dc74b3cb82526fa169fefe\jetified-firebase-auth-19.3.1\AndroidManifest.xml:30:13-72
+179        <!--
+180             FirebaseMessagingService performs security checks at runtime,
+181             but set to not exported to explicitly avoid allowing another app to call it.
+182        -->
+183        <service
+183-->[com.google.firebase:firebase-messaging:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c05668dc6f8608acae09ddae85d95554\jetified-firebase-messaging-20.1.7\AndroidManifest.xml:28:9-34:19
+184            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+184-->[com.google.firebase:firebase-messaging:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c05668dc6f8608acae09ddae85d95554\jetified-firebase-messaging-20.1.7\AndroidManifest.xml:29:13-82
+185            android:exported="false" >
+185-->[com.google.firebase:firebase-messaging:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c05668dc6f8608acae09ddae85d95554\jetified-firebase-messaging-20.1.7\AndroidManifest.xml:30:13-37
+186            <intent-filter android:priority="-500" >
+186-->[com.google.firebase:firebase-messaging:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c05668dc6f8608acae09ddae85d95554\jetified-firebase-messaging-20.1.7\AndroidManifest.xml:31:13-33:29
+186-->[com.google.firebase:firebase-messaging:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c05668dc6f8608acae09ddae85d95554\jetified-firebase-messaging-20.1.7\AndroidManifest.xml:31:28-51
+187                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+187-->[com.google.firebase:firebase-messaging:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c05668dc6f8608acae09ddae85d95554\jetified-firebase-messaging-20.1.7\AndroidManifest.xml:32:17-78
+187-->[com.google.firebase:firebase-messaging:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\c05668dc6f8608acae09ddae85d95554\jetified-firebase-messaging-20.1.7\AndroidManifest.xml:32:25-75
+188            </intent-filter>
+189        </service>
+190
+191        <provider
+191-->[com.squareup.picasso:picasso:2.71828] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\29cb0cf0ff0b22bbcbd34bff3e118815\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+192            android:name="com.squareup.picasso.PicassoProvider"
+192-->[com.squareup.picasso:picasso:2.71828] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\29cb0cf0ff0b22bbcbd34bff3e118815\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+193            android:authorities="tech.berjis.lynnescorts.com.squareup.picasso"
+193-->[com.squareup.picasso:picasso:2.71828] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\29cb0cf0ff0b22bbcbd34bff3e118815\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+194            android:exported="false" />
+194-->[com.squareup.picasso:picasso:2.71828] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\29cb0cf0ff0b22bbcbd34bff3e118815\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+195
+196        <receiver
+196-->[com.google.firebase:firebase-iid:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\905f391112435c789e3a2727145dc679\jetified-firebase-iid-20.1.7\AndroidManifest.xml:37:9-44:20
+197            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+197-->[com.google.firebase:firebase-iid:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\905f391112435c789e3a2727145dc679\jetified-firebase-iid-20.1.7\AndroidManifest.xml:38:13-78
+198            android:exported="true"
+198-->[com.google.firebase:firebase-iid:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\905f391112435c789e3a2727145dc679\jetified-firebase-iid-20.1.7\AndroidManifest.xml:39:13-36
+199            android:permission="com.google.android.c2dm.permission.SEND" >
+199-->[com.google.firebase:firebase-iid:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\905f391112435c789e3a2727145dc679\jetified-firebase-iid-20.1.7\AndroidManifest.xml:40:13-73
+200            <intent-filter>
+200-->[com.google.firebase:firebase-iid:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\905f391112435c789e3a2727145dc679\jetified-firebase-iid-20.1.7\AndroidManifest.xml:41:13-43:29
+201                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+201-->[com.google.firebase:firebase-iid:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\905f391112435c789e3a2727145dc679\jetified-firebase-iid-20.1.7\AndroidManifest.xml:42:17-81
+201-->[com.google.firebase:firebase-iid:20.1.7] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\905f391112435c789e3a2727145dc679\jetified-firebase-iid-20.1.7\AndroidManifest.xml:42:25-78
+202            </intent-filter>
+203        </receiver>
+204
+205        <activity
+205-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\75e7c473eccef2b3a0eec97fa3a7825b\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+206            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+206-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\75e7c473eccef2b3a0eec97fa3a7825b\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+207            android:exported="false"
+207-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\75e7c473eccef2b3a0eec97fa3a7825b\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+208            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+208-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\75e7c473eccef2b3a0eec97fa3a7825b\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+209
+210        <provider
+210-->[com.google.firebase:firebase-common:19.3.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\3deb10f8139ef5717b3d54ada2a19ca4\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+211            android:name="com.google.firebase.provider.FirebaseInitProvider"
+211-->[com.google.firebase:firebase-common:19.3.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\3deb10f8139ef5717b3d54ada2a19ca4\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+212            android:authorities="tech.berjis.lynnescorts.firebaseinitprovider"
+212-->[com.google.firebase:firebase-common:19.3.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\3deb10f8139ef5717b3d54ada2a19ca4\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+213            android:exported="false"
+213-->[com.google.firebase:firebase-common:19.3.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\3deb10f8139ef5717b3d54ada2a19ca4\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+214            android:initOrder="100" />
+214-->[com.google.firebase:firebase-common:19.3.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\3deb10f8139ef5717b3d54ada2a19ca4\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+215
+216        <receiver
+216-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\93344a54810d6249d792bcad51b8c857\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:29:9-33:20
+217            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+217-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\93344a54810d6249d792bcad51b8c857\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:30:13-85
+218            android:enabled="true"
+218-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\93344a54810d6249d792bcad51b8c857\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:31:13-35
+219            android:exported="false" >
+219-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\93344a54810d6249d792bcad51b8c857\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:32:13-37
+220        </receiver>
+221
+222        <service
+222-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\93344a54810d6249d792bcad51b8c857\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:35:9-38:40
+223            android:name="com.google.android.gms.measurement.AppMeasurementService"
+223-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\93344a54810d6249d792bcad51b8c857\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:36:13-84
+224            android:enabled="true"
+224-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\93344a54810d6249d792bcad51b8c857\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:37:13-35
+225            android:exported="false" />
+225-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\93344a54810d6249d792bcad51b8c857\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:38:13-37
+226        <service
+226-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\93344a54810d6249d792bcad51b8c857\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:39:9-43:72
+227            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+227-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\93344a54810d6249d792bcad51b8c857\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:40:13-87
+228            android:enabled="true"
+228-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\93344a54810d6249d792bcad51b8c857\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:41:13-35
+229            android:exported="false"
+229-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\93344a54810d6249d792bcad51b8c857\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:42:13-37
+230            android:permission="android.permission.BIND_JOB_SERVICE" />
+230-->[com.google.android.gms:play-services-measurement:17.4.1] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\93344a54810d6249d792bcad51b8c857\jetified-play-services-measurement-17.4.1\AndroidManifest.xml:43:13-69
+231
+232        <meta-data
+232-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\164bb505b81f338baa0db13edd04c1d1\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+233            android:name="com.google.android.gms.version"
+233-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\164bb505b81f338baa0db13edd04c1d1\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+234            android:value="@integer/google_play_services_version" />
+234-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\164bb505b81f338baa0db13edd04c1d1\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+235
+236        <service
+236-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\af8b852dc9492850dfd58fa4b08b6b31\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:29:9-35:19
+237            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+237-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\af8b852dc9492850dfd58fa4b08b6b31\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:30:13-103
+238            android:exported="false" >
+238-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\af8b852dc9492850dfd58fa4b08b6b31\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:31:13-37
+239            <meta-data
+239-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\af8b852dc9492850dfd58fa4b08b6b31\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:32:13-34:39
+240                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+240-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\af8b852dc9492850dfd58fa4b08b6b31\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:33:17-94
+241                android:value="cct" />
+241-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\af8b852dc9492850dfd58fa4b08b6b31\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:34:17-36
+242        </service>
+243        <service
+243-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\6ef9d023f91cb51a7dcd488e27c3d1cb\jetified-transport-runtime-2.2.0\AndroidManifest.xml:26:9-30:19
+244            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+244-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\6ef9d023f91cb51a7dcd488e27c3d1cb\jetified-transport-runtime-2.2.0\AndroidManifest.xml:27:13-117
+245            android:exported="false"
+245-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\6ef9d023f91cb51a7dcd488e27c3d1cb\jetified-transport-runtime-2.2.0\AndroidManifest.xml:28:13-37
+246            android:permission="android.permission.BIND_JOB_SERVICE" >
+246-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\6ef9d023f91cb51a7dcd488e27c3d1cb\jetified-transport-runtime-2.2.0\AndroidManifest.xml:29:13-69
+247        </service>
+248
+249        <receiver
+249-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\6ef9d023f91cb51a7dcd488e27c3d1cb\jetified-transport-runtime-2.2.0\AndroidManifest.xml:32:9-34:40
+250            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+250-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\6ef9d023f91cb51a7dcd488e27c3d1cb\jetified-transport-runtime-2.2.0\AndroidManifest.xml:33:13-132
+251            android:exported="false" />
+251-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\6ef9d023f91cb51a7dcd488e27c3d1cb\jetified-transport-runtime-2.2.0\AndroidManifest.xml:34:13-37
+252
+253        <provider
+253-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\05159317f21a2dd1d02987b6e5d9b612\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
+254            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+254-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\05159317f21a2dd1d02987b6e5d9b612\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
+255            android:authorities="tech.berjis.lynnescorts.lifecycle-process"
+255-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\05159317f21a2dd1d02987b6e5d9b612\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
+256            android:exported="false"
+256-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\05159317f21a2dd1d02987b6e5d9b612\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
+257            android:multiprocess="true" />
+257-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\bened\.gradle\caches\transforms-2\files-2.1\05159317f21a2dd1d02987b6e5d9b612\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
+258    </application>
+259
+260</manifest>
