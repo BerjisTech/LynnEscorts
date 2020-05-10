@@ -45,4 +45,6 @@
     <string name="do_you_offer_incalls">Do you offer incalls and/or outcalls?</string>
     <string name="do_you_sell_photos_and_or_videos">Do you sell photos and/or videos?</string>
     <string name="do_you_offer_video_calls">Do you offer video calls?</string>
+    <string name="make_this_photo_free_to_view">Make this photo free to view</string>
+    <string name="here_goes_the_post_text">Here goes the post text</string>
 </resources>

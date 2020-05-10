@@ -9,7 +9,9 @@ import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.CompoundButton;
 import android.widget.ImageView;
+import android.widget.Switch;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -29,6 +31,7 @@ import com.google.firebase.storage.StorageReference;
 import com.google.firebase.storage.UploadTask;
 import com.theartofdev.edmodo.cropper.CropImage;
 import com.theartofdev.edmodo.cropper.CropImageView;
+import com.vanniktech.emoji.EmojiEditText;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -43,8 +46,10 @@ public class CreatePost extends AppCompatActivity {
     String UID, postID = "", hasImage = "";
 
     ImageView back;
-    TextView newImage;
+    TextView newImage, share;
     ViewPager2 imagePager;
+    EmojiEditText postText;
+    Switch premiumFree;
 
     List<ImageList> imageList;
     ImagePagerAdapter imagePagerAdapter;
@@ -65,6 +70,9 @@ public class CreatePost extends AppCompatActivity {
         back = findViewById(R.id.back);
         imagePager = findViewById(R.id.imagePager);
         newImage = findViewById(R.id.newImage);
+        share = findViewById(R.id.share);
+        postText = findViewById(R.id.postText);
+        premiumFree = findViewById(R.id.premiumFree);
 
         postNode();
         back.setOnClickListener(new View.OnClickListener() {
@@ -79,6 +87,12 @@ public class CreatePost extends AppCompatActivity {
                 selectImage();
             }
         });
+        share.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                postText();
+            }
+        });
     }
 
     private void postNode() {
@@ -87,10 +101,23 @@ public class CreatePost extends AppCompatActivity {
             postRef = dbRef.child("Posts").push();
             postID = postRef.getKey();
 
-            postRef.child("product_id").setValue(postID);
-            postRef.child("seller").setValue(UID);
+            postRef.child("post_id").setValue(postID);
+            postRef.child("user").setValue(UID);
             postRef.child("status").setValue("draft");
             postRef.child("time").setValue(unixTime);
+            postRef.child("type").setValue("photo");
+            postRef.child("availability").setValue("premium");
+            postRef.child("text").setValue("");
+
+            premiumFree.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
+                public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
+                    if (isChecked) {
+                        postRef.child("availability").setValue("free");
+                    } else {
+                        postRef.child("availability").setValue("premium");
+                    }
+                }
+            });
         }
     }
 
@@ -172,6 +199,7 @@ public class CreatePost extends AppCompatActivity {
                                         @Override
                                         public void onComplete(@NonNull Task<Void> task) {
                                             if (task.isSuccessful()) {
+                                                postRef.child("status").setValue("published");
                                                 imageRef[0] = null;
                                                 hasImage = "hasImage";
                                                 loadImages(postID);
@@ -201,5 +229,14 @@ public class CreatePost extends AppCompatActivity {
         } else {
             progressDialog.dismiss();
         }
+    }
+
+    private void postText() {
+        String text = postText.getText().toString();
+
+        postRef.child("text").setValue(text);
+        postRef.child("status").setValue("published");
+        Toast.makeText(this, "Post succesfully published", Toast.LENGTH_SHORT).show();
+        startActivity(new Intent(CreatePost.this, FeedActivity.class));
     }
 }

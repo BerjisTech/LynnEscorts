@@ -93,13 +93,14 @@ public class ProfileActivity extends AppCompatActivity {
         });
     }
 
-    private void loaduserdata(){
+    private void loaduserdata() {
         newUserState();
         dbRef.child("Users").child(UID).addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
             public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
                 String alias = dataSnapshot.child("user_name").getValue().toString();
-                String fullname = dataSnapshot.child("first_name").getValue().toString() + " " + dataSnapshot.child("last_name").getValue().toString();;
+                String fullname = dataSnapshot.child("first_name").getValue().toString() + " " + dataSnapshot.child("last_name").getValue().toString();
+                ;
                 username.setText("@" + alias);
                 full_name.setText(fullname);
             }
@@ -111,14 +112,14 @@ public class ProfileActivity extends AppCompatActivity {
         });
     }
 
-    private void newUserState(){
+    private void newUserState() {
         dbRef.child("Users").child(UID).addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
             public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
                 if (!dataSnapshot.child("first_name").exists() ||
                         !dataSnapshot.child("last_name").exists() ||
                         !dataSnapshot.child("user_name").exists() ||
-                        !dataSnapshot.child("user_email").exists()){
+                        !dataSnapshot.child("user_email").exists()) {
                     startActivity(new Intent(ProfileActivity.this, EditProfileActivity.class).setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK));
                 }
             }
@@ -129,4 +130,5 @@ public class ProfileActivity extends AppCompatActivity {
             }
         });
     }
+
 }

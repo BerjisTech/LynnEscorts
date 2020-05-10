@@ -60,6 +60,10 @@
         "source": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
     },
     {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notifications.png.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\src\\main\\res\\drawable\\notifications.png"
+    },
+    {
         "merged": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_indicator_selected.xml.flat",
         "source": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\src\\main\\res\\drawable\\indicator_selected.xml"
     },

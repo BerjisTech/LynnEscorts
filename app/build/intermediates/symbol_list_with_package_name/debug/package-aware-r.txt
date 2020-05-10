@@ -2043,6 +2043,7 @@ drawable notification_icon_background
 drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
+drawable notifications
 drawable notify_panel_notification_icon_bg
 drawable orange_button_curved
 drawable otp
@@ -2266,6 +2267,7 @@ id collapseActionView
 id collapse_button
 id column
 id column_reverse
+id comments
 id confirm_button
 id contact
 id container
@@ -2374,6 +2376,7 @@ id icon_only
 id icon_uri
 id ifRoom
 id image
+id imageCard
 id imagePager
 id imageView
 id imageView1
@@ -2480,6 +2483,7 @@ id normal
 id notification_background
 id notification_main_column
 id notification_main_column_container
+id notifications
 id notifications_btn
 id notifications_txt
 id nowrap
@@ -2531,8 +2535,12 @@ id photosTitle
 id photosVideos
 id pin
 id plain
+id postImage
 id postText
+id postTime
+id postsRecycler
 id preferenceDivider
+id premiumFree
 id pricing
 id primary_button
 id profile
@@ -2766,6 +2774,7 @@ id userDescription
 id userDescriptionHint
 id userEmail
 id userEmailHint
+id userImage
 id userName
 id userNameHint
 id username
@@ -3200,6 +3209,7 @@ string google_crash_reporting_api_key
 string google_storage_bucket
 string grant_permission
 string hello_blank_fragment
+string here_goes_the_post_text
 string hide_bottom_view_on_scroll_behavior
 string how_would_you_like_to_pay
 string i_have_completed_this_payment
@@ -3223,6 +3233,7 @@ string library_emoji_owner
 string library_emoji_repositoryLink
 string library_emoji_year
 string logout
+string make_this_photo_free_to_view
 string messages
 string modal_content_descriptor
 string modal_inner_content_descriptor
