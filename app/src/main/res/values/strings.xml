@@ -47,4 +47,7 @@
     <string name="do_you_offer_video_calls">Do you offer video calls?</string>
     <string name="make_this_photo_free_to_view">Make this photo free to view</string>
     <string name="here_goes_the_post_text">Here goes the post text</string>
+    <string name="reply">Reply</string>
+    <string name="delete_for_me">Delete for me</string>
+    <string name="delete_for_all">Delete for all</string>
 </resources>

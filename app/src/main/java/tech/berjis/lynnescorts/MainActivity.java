@@ -56,6 +56,7 @@ public class MainActivity extends AppCompatActivity {
         requestWindowFeature(Window.FEATURE_NO_TITLE);
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
                 WindowManager.LayoutParams.FLAG_FULLSCREEN);
+        getWindow().setFlags(WindowManager.LayoutParams.FLAG_SECURE, WindowManager.LayoutParams.FLAG_SECURE);
         setContentView(R.layout.activity_main);
 
         // ini views
@@ -226,7 +227,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void userState() {
-        UID = Objects.requireNonNull(mAuth.getCurrentUser()).getUid();
+        UID = mAuth.getCurrentUser().getUid();
         dbRef.child("Users").child(UID).child("user_name").addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
             public void onDataChange(@NonNull DataSnapshot dataSnapshot) {

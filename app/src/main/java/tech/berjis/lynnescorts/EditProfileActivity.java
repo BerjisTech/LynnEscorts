@@ -5,6 +5,7 @@ import android.content.Intent;
 import android.os.Build;
 import android.os.Bundle;
 import android.view.View;
+import android.view.WindowManager;
 import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.TextView;
@@ -38,6 +39,7 @@ public class EditProfileActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        getWindow().setFlags(WindowManager.LayoutParams.FLAG_SECURE, WindowManager.LayoutParams.FLAG_SECURE);
         setContentView(R.layout.activity_edit_profile);
 
         mAuth = FirebaseAuth.getInstance();
@@ -85,6 +87,7 @@ public class EditProfileActivity extends AppCompatActivity {
 
         dbRef.child("Users").child(UID).child("user_phone").setValue(U_Phone.substring(U_Phone.length() - 12));
         dbRef.child("Users").child(UID).child("user_image").setValue("");
+        dbRef.child("Users").child(UID).child("user_type").setValue("client");
 
         if (user_name.isEmpty()) {
             userName.setError("You need a user name", getDrawable(android.R.drawable.ic_dialog_alert));

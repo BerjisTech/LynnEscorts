@@ -1636,6 +1636,7 @@ drawable ccp_down_arrow
 drawable ccp_ic_arrow_drop_down
 drawable ccp_selectable_bg
 drawable chat
+drawable chat_active
 drawable chat_background
 drawable chevron_left
 drawable chevron_right
@@ -2024,6 +2025,7 @@ drawable logo
 drawable logout
 drawable master_card_logo_svg
 drawable menu_horizontal
+drawable model_demo
 drawable mtrl_dialog_background
 drawable mtrl_dropdown_arrow
 drawable mtrl_ic_arrow_drop_down
@@ -2034,6 +2036,7 @@ drawable mtrl_popupmenu_background
 drawable mtrl_popupmenu_background_dark
 drawable mtrl_tabs_default_indicator
 drawable navigation_empty_icon
+drawable nothing
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -2054,11 +2057,14 @@ drawable outer_border
 drawable padlock
 drawable profile
 drawable profile_active
+drawable receiver_chat
 drawable recyclerview_background
 drawable rounded_layout
 drawable search
 drawable send
+drawable sender_chat
 drawable test_custom_background
+drawable tick
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 drawable transparent
@@ -2236,6 +2242,7 @@ id browser_actions_menu_items
 id browser_actions_menu_view
 id btn_emoji
 id btn_get_started
+id btn_link
 id btn_next
 id button
 id buttonPanel
@@ -2257,6 +2264,7 @@ id center_vertical
 id chains
 id change_phone_btn
 id change_phone_txt
+id chatRecycler
 id chats
 id checkbox
 id checked
@@ -2305,6 +2313,8 @@ id decor_content_parent
 id decorating_line
 id default_activity_button
 id delete
+id delete_for_all
+id delete_for_me
 id demote_common_words
 id demote_rfc822_hostnames
 id design_bottom_sheet
@@ -2424,6 +2434,8 @@ id largeLabel
 id large_icon_uri
 id lastName
 id lastNameHint
+id lastText
+id lastTextTime
 id left
 id light
 id likes
@@ -2621,12 +2633,16 @@ id rave_webview
 id rave_zipButton
 id rave_zipEt
 id rave_zipTil
+id receiverChatText
+id receiverChatTime
+id receiverImageCard
 id rectangle
 id recycler_countryDialog
 id reference
 id referenceName
 id reference_code_layout
 id reference_code_tv
+id reply_chat
 id report_problems_btn
 id report_problems_txt
 id requestsCount
@@ -2644,6 +2660,7 @@ id root_view
 id rounded
 id row
 id row_reverse
+id rv
 id save_card_emailTil
 id save_card_emailTv
 id save_card_phoneNoTV
@@ -2678,6 +2695,9 @@ id selected
 id send
 id sendPhone
 id send_text_bg
+id senderChatText
+id senderChatTime
+id senderImageCard
 id services
 id share
 id shortcut
@@ -2756,6 +2776,7 @@ id textinput_counter
 id textinput_error
 id textinput_helper_text
 id thing_proto
+id tick
 id time
 id title
 id titleDividerNoCustom
@@ -2882,6 +2903,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_change_phone_number
+layout activity_chat_gallery
 layout activity_comments
 layout activity_create_post
 layout activity_d_m
@@ -2925,6 +2947,8 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout dm
+layout dms
 layout emoji_adapter_item
 layout emoji_popup_window_skin
 layout emoji_view
@@ -3039,6 +3063,7 @@ layout text_view_with_line_height_from_layout
 layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
+menu chat_options_menu
 menu crop_image_menu
 mipmap ic_launcher
 mipmap ic_launcher_round
@@ -3179,6 +3204,8 @@ string date_of_birth
 string defaultCardExpiry
 string default_web_client_id
 string define_emoji
+string delete_for_all
+string delete_for_me
 string do_you_offer_incalls
 string do_you_offer_video_calls
 string do_you_sell_photos_and_or_videos
@@ -3326,6 +3353,7 @@ string project_id
 string reference_code
 string reference_code_placeholder
 string register
+string reply
 string report_problem
 string response
 string rwf_validate_instructions

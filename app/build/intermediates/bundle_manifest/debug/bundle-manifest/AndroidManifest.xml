@@ -36,9 +36,18 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppCustomTheme.NoActionBar" >
-        <activity android:name="tech.berjis.lynnescorts.FullScreenGallery" />
-        <activity android:name="tech.berjis.lynnescorts.PricingActivity" />
-        <activity android:name="tech.berjis.lynnescorts.ServicesActivity" />
+        <activity
+            android:name="tech.berjis.lynnescorts.FullScreenGallery"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="tech.berjis.lynnescorts.PricingActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="tech.berjis.lynnescorts.ServicesActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
         <activity
             android:name="tech.berjis.lynnescorts.NotificationsActivity"
             android:screenOrientation="portrait"
