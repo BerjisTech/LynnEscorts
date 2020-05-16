@@ -17,6 +17,7 @@ import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
+import com.squareup.picasso.Picasso;
 import com.vanniktech.emoji.EmojiTextView;
 
 import de.hdodenhof.circleimageview.CircleImageView;
@@ -51,6 +52,7 @@ public class ProfileActivity extends AppCompatActivity {
         full_name = findViewById(R.id.full_name);
         services = findViewById(R.id.services);
         pricing = findViewById(R.id.pricing);
+        dp =findViewById(R.id.dp);
 
         loaduserdata();
         staticOnclicks();
@@ -102,9 +104,12 @@ public class ProfileActivity extends AppCompatActivity {
             public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
                 String alias = dataSnapshot.child("user_name").getValue().toString();
                 String fullname = dataSnapshot.child("first_name").getValue().toString() + " " + dataSnapshot.child("last_name").getValue().toString();
-                ;
                 username.setText("@" + alias);
                 full_name.setText(fullname);
+
+                if (dataSnapshot.child("user_image").exists() && !dataSnapshot.child("user_image").getValue().toString().equals("")) {
+                    Picasso.get().load(dataSnapshot.child("user_image").getValue().toString()).error(R.drawable.logo).into(dp);
+                }
             }
 
             @Override
@@ -115,7 +120,7 @@ public class ProfileActivity extends AppCompatActivity {
     }
 
     private void newUserState() {
-        dbRef.child("Users").child(UID).addListenerForSingleValueEvent(new ValueEventListener() {
+        dbRef.child("Users").child(UID).addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
                 if (!dataSnapshot.child("first_name").exists() ||

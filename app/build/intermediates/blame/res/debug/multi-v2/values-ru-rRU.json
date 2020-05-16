@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\bened\\AndroidStudioProjects\\lynnescorts\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ru-rRU\\values-ru-rRU.xml",
+            "outputFile": "/home/password/Downloads/LynnEscorts/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ru-rRU/values-ru-rRU.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\bened\\.gradle\\caches\\transforms-2\\files-2.1\\c10a25150d21e57e35afe38f90f6ccd9\\jetified-android-image-cropper-2.8.0\\res\\values-ru-rRU\\values-ru-rRU.xml",
+                    "source": "/root/.gradle/caches/transforms-2/files-2.1/0943c4f2313e569448bdab58985c30af/android-image-cropper-2.8.0/res/values-ru-rRU/values-ru-rRU.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",

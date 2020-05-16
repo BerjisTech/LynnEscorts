@@ -1,50 +1,34 @@
 {
   "project_info": {
-    "project_number": "17659420767",
-    "firebase_url": "https://lynn-6a28b.firebaseio.com",
-    "project_id": "lynn-6a28b",
-    "storage_bucket": "lynn-6a28b.appspot.com"
+    "project_number": "797503328329",
+    "firebase_url": "https://newr-e6237.firebaseio.com",
+    "project_id": "newr-e6237",
+    "storage_bucket": "newr-e6237.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:17659420767:android:b18c82a31cd116d8e67bea",
+        "mobilesdk_app_id": "1:797503328329:android:7de67e1abe9105d85daf98",
         "android_client_info": {
-          "package_name": "tech.berjis.lynn"
+          "package_name": "Am.a.Freelancer"
         }
       },
       "oauth_client": [
         {
-          "client_id": "17659420767-stcv6bjth6sbhcbh0ob6aj3rchqpbdu4.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "tech.berjis.lynn",
-            "certificate_hash": "ec6c42a9cc63fcbe98da893fd5a5faf3391707db"
-          }
-        },
-        {
-          "client_id": "17659420767-vdckq9qpi835d4qqeadbgoqq5m6lpd6s.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "tech.berjis.lynn",
-            "certificate_hash": "1aa105ecab722b7140a3fc414fb50c8516848bb9"
-          }
-        },
-        {
-          "client_id": "17659420767-h5em6h5oiehqgmn69nhb6oi0pgvoig86.apps.googleusercontent.com",
+          "client_id": "797503328329-m9chemu2jn301eo39993i0toqimu9od0.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC09sKLJPtgsft5Q3ePH1bBCp3uYVEVgbI"
+          "current_key": "AIzaSyAmnhx49BS1O6YSRdewltA3bd5raauItBA"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "17659420767-h5em6h5oiehqgmn69nhb6oi0pgvoig86.apps.googleusercontent.com",
+              "client_id": "797503328329-m9chemu2jn301eo39993i0toqimu9od0.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
@@ -53,35 +37,35 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:17659420767:android:828a3e216a9e9d4ee67bea",
+        "mobilesdk_app_id": "1:797503328329:android:01ae490b7abf1a135daf98",
         "android_client_info": {
           "package_name": "tech.berjis.lynnescorts"
         }
       },
       "oauth_client": [
         {
-          "client_id": "17659420767-qstpqii9it146rajla3cs6vu6o1fgac2.apps.googleusercontent.com",
+          "client_id": "797503328329-pkb4eh1mvprvsqgohs320tagdhku4j82.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "tech.berjis.lynnescorts",
-            "certificate_hash": "ec6c42a9cc63fcbe98da893fd5a5faf3391707db"
+            "certificate_hash": "9d637a1b7151080036e73d355b8c4c2f2ead2261"
           }
         },
         {
-          "client_id": "17659420767-h5em6h5oiehqgmn69nhb6oi0pgvoig86.apps.googleusercontent.com",
+          "client_id": "797503328329-m9chemu2jn301eo39993i0toqimu9od0.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC09sKLJPtgsft5Q3ePH1bBCp3uYVEVgbI"
+          "current_key": "AIzaSyAmnhx49BS1O6YSRdewltA3bd5raauItBA"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "17659420767-h5em6h5oiehqgmn69nhb6oi0pgvoig86.apps.googleusercontent.com",
+              "client_id": "797503328329-m9chemu2jn301eo39993i0toqimu9od0.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

@@ -227,25 +227,31 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void userState() {
-        UID = mAuth.getCurrentUser().getUid();
-        dbRef.child("Users").child(UID).child("user_name").addListenerForSingleValueEvent(new ValueEventListener() {
-            @Override
-            public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
-                if(dataSnapshot.exists()){
-                    Intent mainActivity = new Intent(getApplicationContext(), FeedActivity.class);
-                    startActivity(mainActivity);
-                    finish();
-                }else{
-                    Intent mainActivity = new Intent(getApplicationContext(), EditProfileActivity.class);
-                    startActivity(mainActivity);
-                    finish();
+        if (mAuth.getCurrentUser() == null) {
+            Intent mainActivity = new Intent(getApplicationContext(), RegisterActivity.class);
+            mainActivity.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+            startActivity(mainActivity);
+        } else {
+            UID = mAuth.getCurrentUser().getUid();
+            dbRef.child("Users").child(UID).child("user_name").addListenerForSingleValueEvent(new ValueEventListener() {
+                @Override
+                public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
+                    if (dataSnapshot.exists()) {
+                        Intent mainActivity = new Intent(getApplicationContext(), FeedActivity.class);
+                        startActivity(mainActivity);
+                        finish();
+                    } else {
+                        Intent mainActivity = new Intent(getApplicationContext(), EditProfileActivity.class);
+                        startActivity(mainActivity);
+                        finish();
+                    }
                 }
-            }
 
-            @Override
-            public void onCancelled(@NonNull DatabaseError databaseError) {
+                @Override
+                public void onCancelled(@NonNull DatabaseError databaseError) {
 
-            }
-        });
+                }
+            });
+        }
     }
 }
